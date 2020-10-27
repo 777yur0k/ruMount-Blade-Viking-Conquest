@@ -1,0 +1,402 @@
+﻿p_zendar|Зендар
+p_town_1|Кентербери
+p_town_2|Чиппенхем
+p_town_3|Эдинбург
+p_town_4|Рибе
+p_town_5|Тёнсберг
+p_town_6|Дун Бретанн
+p_town_7|Дуб Линн
+p_town_8|Сайренсестер
+p_town_9|Кардифф
+p_town_10|Йорк
+p_town_11|Дорестад
+p_town_12|Лондон
+p_town_13|Англси
+p_town_14|Данвич
+p_town_15|Скуин
+p_town_16|Уинчестер
+p_town_17|Бодмин
+p_town_18|Келл Канниг
+p_town_19|Келл Ригмонд
+p_town_20|Рат Келтэр
+p_town_21|Мейсту
+p_town_22|Мейфод
+p_town_23|Тамуэрт
+p_town_24|Кесел
+p_town_25|Айлех
+p_town_26|Брихейниог
+p_town_27|Беббанбург
+p_town_28|Круэган
+p_town_29|Темар
+p_castle_1|Карлайл
+p_castle_2|Манчестер
+p_castle_3|Донкастер
+p_castle_4|Мидлсбро
+p_castle_5|Дилстон
+p_castle_6|Ад Геврин
+p_castle_7|Дин Баэр
+p_castle_8|Вейтон
+p_castle_9|Ноттингем
+p_castle_10|Линкольн
+p_castle_11|Нортгемптон
+p_castle_12|Рипон
+p_castle_13|Оксфорд
+p_castle_14|Колчестер
+p_castle_15|Гейнсборо
+p_castle_16|Стамфорд
+p_castle_17|Норидж
+p_castle_18|Хегелисдун
+p_castle_19|Рэндлшем
+p_castle_20|Кембридж
+p_castle_21|Рочестер
+p_castle_22|Дорчестер
+p_castle_23|Солсбери
+p_castle_24|Дорчестер-на-Темзе
+p_castle_25|Уилтон
+p_castle_26|Саутгемптон
+p_castle_27|Бадон
+p_castle_28|Эксетер
+p_castle_29|Ньюквей
+p_castle_30|Тинтеджел
+p_castle_31|Котерс
+p_castle_32|Куил Нарм
+p_castle_33|Каер Карадев
+p_castle_34|Гобанн
+p_castle_35|Дун Дурин
+p_castle_36|Дун Фозер
+p_castle_37|Дун Таруо
+p_castle_38|Дун Аверте
+p_castle_39|Дун Онлаиг
+p_castle_40|Арт Мурчол
+p_castle_41|Денби
+p_castle_42|Динас Бран
+p_castle_43|Рос-он-Си
+p_castle_44|Динэрт
+p_castle_45|Карнарвон
+p_castle_46|Каерсус
+p_castle_47|Мейген киль Кинкойд
+p_castle_48|Каервент
+p_castle_49|Шифа
+p_castle_50|Виборг
+p_castle_51|Холлингштедт
+p_castle_52|Хедебю
+p_castle_53|Скирингссал
+p_castle_54|Хордаланн
+p_castle_55|Агдер
+p_castle_56|Ругаланн
+p_castle_57|Каэр Регхед
+p_castle_58|Дун Батте
+p_castle_59|Дуглас
+p_castle_60|Бьёрнарой
+p_castle_61|Оркнеджар
+p_castle_62|Вэсёрд
+p_castle_63|Кеннемер
+p_castle_64|Флиссинген
+p_castle_65|Дун Себьёр
+p_castle_66|Маг Рат
+p_castle_67|Маг Кобха
+p_castle_68|Друн Мор
+p_castle_69|Рет Клочер
+p_castle_70|Фир Фермхайг
+p_castle_71|Ард Меча
+p_castle_72|Маг Дурнай
+p_castle_73|Ат Мор
+p_castle_74|Ард Эчадх
+p_castle_75|Ард Брекайн
+p_castle_76|Лагор Креннок
+p_castle_77|Катхар Хомайн
+p_castle_78|Лугне Коннахт
+p_castle_79|Фихрач Эдн
+p_castle_80|Ат Берчна
+p_castle_81|Грен Арбх
+p_castle_82|Лес Мор
+p_castle_83|Кайрраг Лухра
+p_castle_84|Мускрейх
+p_castle_85|Дун На Мбарк
+p_castle_86|Келл Дара
+p_castle_87|Лиамхайн
+p_castle_88|Дун Болг
+p_castle_89|Мик Треонр
+p_castle_90|Марг Лайген
+p_village_1|Карлайл Хэм
+p_village_2|Ман Хэм
+p_village_3|Дон Хэм
+p_village_4|Мидл Хэм
+p_village_5|Дилстон Хэм
+p_village_6|Ад Геврин Хем
+p_village_7|Баэр Хем
+p_village_8|Вейтон Хэм
+p_village_9|Ноттингем Сауф
+p_village_10|Линкольн Хэм
+p_village_11|Норф Хэм
+p_village_12|Рипон Хэм
+p_village_13|Окс Хэм
+p_village_14|Кол Хэм
+p_village_15|Гейнс Хэм
+p_village_16|Стан Хэм
+p_village_17|Нор Хэм
+p_village_18|Хегелис Хэм
+p_village_19|Рэндл Хэм
+p_village_20|Кем Хэм
+p_village_21|Ро Хэм
+p_village_22|Дор Хэм
+p_village_23|Солс Хэм
+p_village_24|Дорк Хэм
+p_village_25|Вил Хэм
+p_village_26|Сауф Хэм
+p_village_27|Бадон Хэм
+p_village_28|Эксет Хэм
+p_village_29|Трэф Ньюквей
+p_village_30|Трэф Тин
+p_village_31|Треф Котерс
+p_village_32|Треф Куил
+p_village_33|Треф Карадев
+p_village_34|Треф Гоб
+p_village_35|Бал Дурин
+p_village_36|Бал Фозер
+p_village_37|Бал Тауро
+p_village_38|Бал Аверте
+p_village_39|Бал Онлаиг
+p_village_40|Бал Мурчол
+p_village_41|Трэф Денби
+p_village_42|Трэф Бран
+p_village_43|Трэф Рос
+p_village_44|Трэф Эрт
+p_village_45|Трэф Нарвон
+p_village_46|Трэф Сус
+p_village_47|Трэф Кинкойд
+p_village_48|Трэф Вент
+p_village_49|Шифа Бю
+p_village_50|Виборг Бю
+p_village_51|Холлингштедт Бю
+p_village_52|Хеде Бю
+p_village_53|Скирингссал Бю
+p_village_54|Хорда Бю
+p_village_55|Агдер Бю
+p_village_56|Ругаланн Бю
+p_village_57|Треф Регхед
+p_village_58|Бал Батте
+p_village_59|Трэф Дуглас
+p_village_60|Бьёрнарой Бу
+p_village_61|Оркнеджар Бу
+p_village_62|Вэсёрд Бу
+p_village_63|Кеннемер Терп
+p_village_64|Флиссинген Терп
+p_village_65|Бал Себьёр
+p_village_66|Бал Маг
+p_village_67|Бал Маг Кобха
+p_village_68|Бело Мор 
+p_village_69|Клочерб
+p_village_70|Фермхайгб
+p_village_71|Бал Меча
+p_village_72|Бал Дурнай
+p_village_73|Бал Мар
+p_village_74|Бал Эчадх
+p_village_75|Бал Брекайн
+p_village_76|Бал Креннок
+p_village_77|Бал Хомайн
+p_village_78|Бал Лугне
+p_village_79|Бал Фихрач
+p_village_80|Бал Берчна
+p_village_81|Грен Арбхб
+p_village_82|Лес Морб
+p_village_83|Бал Лухра
+p_village_84|Мускрейхб
+p_village_85|На Мбаркб
+p_village_86|Бал Дара
+p_village_87|Лиамхайнб
+p_village_88|Бал Болг
+p_village_89|Мик Треонбр
+p_village_90|Марг Лайгенб
+p_village_91|Бал Тара
+p_village_92|Кентер Хэм Норф
+p_village_93|Кентер Хэм Сауф
+p_village_94|Чиппен Хэм Норф
+p_village_95|Чиппен Хэм Вест
+p_village_96|Эдин Хемв
+p_village_97|Эдин Хез
+p_village_98|Рибе Бю Норд
+p_village_99|Рибе Бю Зюд
+p_village_100|Тёнс Бю Вест
+p_village_101|Тёнс Бю Ост
+p_village_102|Треф Бретаннв
+p_village_103|Треф Бретанз
+p_village_104|Дуб Линн Бус
+p_village_105|Дуб Линн Бю
+p_village_106|Трэф Дифф Ист
+p_village_107|Трэф Дифф Вест
+p_village_108|Йорк Хэм Ист
+p_village_109|Йорк Хэм Вест
+p_village_110|Доре Хем Ост
+p_village_111|Доре Хем Вест
+p_village_112|Лондон Хэм Норф
+p_village_113|Лондон Хэм Сауф
+p_village_114|Трэф Англси Ист
+p_village_115|Трэф Англси Вест
+p_village_116|Дан Хэм Норф
+p_village_117|Дан Хэм Сауф
+p_village_118|Бал Скуинв
+p_village_119|Бал Скуинз
+p_village_120|Уин Хэм Норф
+p_village_121|Уин Хэм Сауф
+p_village_122|Трэф Бодвин Ист
+p_village_123|Трэф Бодвин Вест
+p_village_124|Бал Каннигс
+p_village_125|Бал Каннию
+p_village_126|Бал Ригмондс
+p_village_127|Бал Ригмоню
+p_village_128|Бал Келтэрв
+p_village_129|Бал Келтэрз
+p_village_130|Бал Мейстув
+p_village_131|Бал Мейстуз
+p_village_132|Треф Мейфод Ист
+p_village_133|Треф Мейфод Вест
+p_village_134|Там Хэм Ист
+p_village_135|Там Хэм Сауф
+p_village_136|Бал Кесел
+p_village_137|Бал Кеселз
+p_village_138|Бал Айлехв
+p_village_139|Бал Айлехз
+p_village_140|Брихейниог Ист
+p_village_141|Брихейниог Вест
+p_village_142|Беббан Хэм Норф
+p_village_143|Беббан Хэм Сауф
+p_village_144|Бал Круэганв
+p_village_145|Бал Круэганз
+p_village_146|Бал Темарс
+p_village_147|Бал Темаю
+p_village_148|Сайрен Хэм Ист
+p_village_149|Сайрен Хэм Вест
+p_village_150|Доккюм
+p_salt_mine|Соляные шахты
+p_four_ways_inn|Четыре пути
+p_test_scene|тестовая сцена
+p_battlefields|поля сражений
+p_frisa_beach|Берег Фризия
+p_farmland|Ферма Ульфа
+p_boar_grove|Кабанья роща
+p_readingum|Редингам
+p_aescesdun|Эсцедун
+p_mega_danishrmy|Великое Летнее Войско
+p_battle_stones|Ряд камней
+p_farmland_special|Поместье
+p_roman_fort|Римский форт
+p_troll_bridge|Мост Тролля
+p_circle_mystic1|Мистический круг
+p_celidon_forest|Древние камни
+p_hidden_valley|Странные руины
+p_quarry1|Каменоломня
+p_quarry2|Каменоломня
+p_quarry3|Каменоломня
+p_quarry4|Каменоломня
+p_saltmine1|Соляные шахты
+p_saltmine2|Соляные шахты
+p_saltmine3|Соляные шахты
+p_saltmine4|Соляные шахты
+p_lumbercamp1|Лагерь лесорубов
+p_lumbercamp2|Лагерь лесорубов
+p_lumbercamp3|Лагерь лесорубов
+p_lumbercamp4|Лагерь лесорубов
+p_farmsteadsp1|Ферма
+p_farmsteadsp2|Ферма
+p_farmsteadsp3|Ферма
+p_farmsteadsp4|Ферма
+p_farmsteadsp5|Ферма
+p_farmsteadsp6|Ферма
+p_farmsteadsp7|Ферма
+p_farmsteadsp8|Ферма
+p_farmsteadsp9|Ферма
+p_hadrian_wall1|Адрианов Вал
+p_bjorn_camp|Лагерь Бьёрна
+p_snotingaham_siege|Осажд. Снотингахам
+p_odin_cavep_odin_cave|Пещера Одина
+p_stonemonumento|Каменный монумент
+p_forestbattle|Лесное сражение
+p_the_thing|Ассамблея
+p_dhorak_keep|Твердыня Дорак
+p_training_ground|Тренир. площадка
+p_training_ground_1|Тренир. лагерь в поле
+p_training_ground_2|Тренир. лагерь в деревне
+p_training_ground_3|Тренир. лагерь в поле
+p_training_ground_4|Тренир. лагерь на озере
+p_training_ground_5|Тренир. лагерь
+p_monasterio1|Ад Кандида Касам
+p_monasterio2|Виллиброрд
+p_monasterio3|Доммок
+p_monasterio4|Линдисфарн
+p_monasterio5|Апоркросан
+p_monasterio6|Петрюс
+p_monasterio7|Абернети
+p_monasterio8|Кармартен
+p_monasterio9|Бардси
+p_monasterio10|Эвесхоме
+p_monasterio11|Беверли
+p_monasterio12|Хексем
+p_monasterio13|Брейдун
+p_monasterio14|Гутлак
+p_monasterio15|Уокинг
+p_monasterio16|Кловешо
+p_monasterio17|Уэрбург
+p_monasterio18|Дирхерст
+p_monasterio19|Йтан
+p_monasterio20|Петрокстоу
+p_monasterio21|Медешамстед
+p_monasterio22|Кукхем
+p_monasterio23|Патрик
+p_monasterio24|Дубовая роща
+p_monasterio25|Абб Финиан
+p_monasterio26|Абб Рейтен
+p_monasterio27|Абб Карах
+p_monasterio28|Скеллиг-Май
+p_monasterio29|Абб Гленда
+p_yourlair|Моё убежище
+p_thiaderd_lair|Убежище Тиадерда
+p_destroy1|Развал. убежища Тиадерда
+p_destroy2|Развал. логова Свена
+p_destroy3|Поле битвы Эсцедун
+p_followers_camp|Последователи
+p_ferry_1a|переправа
+p_ferry_2a|переправа
+p_ferry_3a|переправа
+p_ferry_4a|переправа
+p_ferry_1b|переправа
+p_ferry_2b|переправа
+p_ferry_3b|переправа
+p_ferry_4b|переправа
+p_wales_spawn_point|побережье
+p_fortiu_spawn_point|побережье
+p_sussex_spawn_point|Суссекс
+p_clyde_coast_spawn_point|река
+p_limerick_spawn_point|побережье
+p_norway_spawn_point|горы
+p_northumbria_spawn_point|сельская местность
+p_mierce_spawn_point|сельская местность
+p_crafu_spawn_point|сельская местность
+p_alban_spawn_point|сельская местность
+p_aileach_spawn_point|сельская местность
+p_engla_coast_spawn_point|побережье
+p_cornish_coast_spawn_point|побережье
+p_leinster_spawn_point|сельская местность
+p_frisia_spawn_point|сельская местность
+p_denmark_spawn_point|сельская местность
+p_caitness_priest_spawn_point|сельская местность
+p_northumbria_priest_spawn_point|сельская местность
+p_norway_priest_spawn_point|сельская местность
+p_denmark_priest_spawn_point|сельская местность
+p_channel_spawn_point|русло
+p_bight_spawn_point|Южная бухта
+p_irish_sea_spawn_point|Ирландское море
+p_forth_firth_spawn_point|Фёрт-оф-Форт
+p_skagerrak_spawn_point|Скагеррак
+p_firth_clyde_spawn_point|Ферт-оф-Клайд
+p_landing_point|Место высадки
+p_the_fleet|Флот
+p_transporter|Перевозчик
+p_troop_camp_1|Становище воинов
+p_troop_camp_2|Становище воинов
+p_paganholysites1|Хоф Одина
+p_paganholysites2|Хоф Тора
+p_oldpagan_hut|Хижина язычника
+p_morrigan_lair|Логово Морриган
+p_bresail_farm|Ферма Маела Б.
+p_bresail_fort|Форт Маела Б.

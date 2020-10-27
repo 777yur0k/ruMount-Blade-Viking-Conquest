@@ -1,0 +1,179 @@
+qst_deliver_message|Доставить сообщение для {s13}
+qst_deliver_message_text|{s9} попросил доставить сообщение для {s13}. {s13} был в {s4}, когда вы получили это задание.
+qst_deliver_message_to_enemy_lord|Доставить сообщение для {s13}
+qst_deliver_message_to_enemy_lord_text|{s9} попросил доставить сообщение для {s13} из {s15}. {s13} был в {s4}, когда вы получили это задание.
+qst_raise_troops|Обучить {reg1} человек до {s14}
+qst_raise_troops_text|{s9} попросил обучить {reg1} человек до {s14} и привести к нему.
+qst_escort_lady|Сопроводить {s13} до {s14}
+qst_deal_with_bandits_at_lords_village|Спасти деревню {s15} от разграбления бандитами
+qst_deal_with_bandits_at_lords_village_text|{s13} попросил разобраться с бандитами, которые укрываются в его деревне {s15}, и доложить ему.
+qst_collect_taxes|Собрать налоги с {s3}
+qst_collect_taxes_text|{s9} попросил собрать налоги с {s3}. Он пообещал отдать вам пятую часть от собранной суммы.
+qst_hunt_down_fugitive|Выследить {s4}
+qst_hunt_down_fugitive_text|{s9} попросил выследить беглеца по имени {s4}. Сейчас он должен быть в {s3}.
+qst_kill_local_merchant|Убить местного торговца в {s3}
+qst_kill_local_merchant_text|{s9} попросил убить местного торговца в {s3}.
+qst_bring_back_runaway_serfs|Вернуть беглых рабов
+qst_bring_back_runaway_serfs_text|{s9} попросил вернуть три группы беглых рабов в {s2}. Он сказал, что они направляются в {s3}.
+qst_follow_spy|Проследить за шпионом
+qst_follow_spy_text|{s11} попросил проследовать за шпионом, который отправится из {s12}. Нужно быть осторожней во время преследования — шпион не должен вас обнаружить, иначе он может что-то заподозрить и вернуться. А после того, как шпион встретится со своим нанимателем, организуйте засаду, захватите их обоих и доставьте в {s11}.
+qst_capture_enemy_hero|Пленить лорда из {s13}
+qst_lend_companion|Одолжить спутника {s3} для {s9}
+qst_lend_companion_text|{s9} попросил одолжить {s3} ему на неделю.
+qst_collect_debt|Взыскать долг с {s3} для {s9}
+qst_collect_debt_text|{s9} попросил взыскать причитающийся ему долг в {reg4} пенни с {s3}.
+qst_incriminate_loyal_commander|Обвинить верного командующего {s13}, {s16} 
+qst_meet_spy_in_enemy_town|Встретиться со шпионом в {s13}
+qst_capture_prisoners|Захватить {reg1} пленных {s3} 
+qst_capture_prisoners_text|{s9} желает, чтобы вы привели к нему {reg1} пленных {s3}.
+qst_lend_surgeon|Одолжить лекаря {s3} для {s1}
+qst_lend_surgeon_text|Одолжите опытного спутника-лекаря {s3} для {s1}.
+qst_follow_army|Следовать за армией {s9}
+qst_report_to_army|Явиться к маршалу {s13}
+qst_deliver_cattle_to_army|Доставить {reg3} скота для {s13}
+qst_join_siege_with_army|Принять участие в осаде {s14}
+qst_screen_army|Прикрыть наступление армии {s13}
+qst_scout_waypoints|Провести разведку около {s13}, {s14} и {s15}
+qst_rescue_lord_by_replace|Спасти {s13} из {s14}
+qst_deliver_message_to_prisoner_lord|Доставить сообщение для {s13} в {s14}
+qst_duel_for_lady|Вызать на дуэль {s13}
+qst_duel_courtship_rival|Вызать на дуэль {s13} (необязательно)
+qst_duel_avenge_insult|Вызать на дуэль {s13}
+qst_move_cattle_herd|Перегнать скот в {s13}
+qst_move_cattle_herd_text|Гильдмастер {s10} попросил перегнать стадо в {s13}.
+qst_escort_merchant_caravan|Сопроводить торговый караван до {s8}
+qst_escort_merchant_caravan_text|Сопроводите торговый караван в город {s8}.
+qst_deliver_wine|Доставить {reg5} шт. {s6} в {s4}
+qst_deliver_wine_text|{s9} из {s3} попросил доставить {reg5} шт. {s6} в медовый зал {s4} в течении 7 дней.
+qst_troublesome_bandits|Выследить досаждающих бандитов
+qst_troublesome_bandits_text|{s9} из {s4} попросил выследить досаждающих бандитов в окрестностях города.
+qst_kidnapped_girl|Выкупить девушку у бандитов
+qst_kidnapped_girl_text|Гильдмастер {s4} дал вам {reg12} пенни, чтобы выкупить девушку, похищенную бандитами. Вы должны встретиться с похитителями около {s3} и отдать им выкуп, вернув девушку в {s4}.
+qst_persuade_lords_to_make_peace|Помочь заключить мир
+qst_persuade_lords_to_make_peace_text|Гильдмастер {s4} обещал вам {reg12} пенни, если вы сделает так, чтобы {s12} и {s13} более не препятствовали мирному соглашению между {s15} и {s14}. Вы должны или убедить их, или пленить и удерживать до заключения мирного соглашения.
+qst_deal_with_looters|Разобраться с грабителями
+qst_deal_with_looters_text|Гильдмастер {s4} попросил разобраться с несколькими бандами грабителей возле {s4} и вернуть любые товары, которые сумеете отбить.
+qst_deal_with_night_bandits|Разобраться с ночными бандитами
+qst_deliver_grain|Доставить пшеницу в {s3}
+qst_deliver_grain_text|Староста деревни {s3} попросил привезти {reg5} мешков пшеницы.
+qst_deliver_cattle|Доставить {reg5} голов скота в {s3}
+qst_deliver_cattle_text|Староста деревни {s3} попросил привести {reg5} голов скота.
+qst_train_peasants_against_bandits|Научить крестьян из {s13} сражаться с бандитами.
+qst_eliminate_bandits_infesting_village|Спасти деревню {s7} от разграбления бандитами
+qst_eliminate_bandits_infesting_village_text|Крестьянин из {s7} попросил спасти его деревню от бандитов, которые там укрываются.
+qst_visit_lady|Посетить даму
+qst_formal_marriage_proposal|Сделать официальное предложение о браке
+qst_obtain_liege_blessing|Сделать официальное предложение о браке
+qst_wed_betrothed|Сыграть свадьбу
+qst_wed_betrothed_female|Сыграть свадьбу
+qst_join_faction|Присягнуть {s1}
+qst_join_faction_text|{s1} ждет вашей клятвы верности.
+qst_rebel_against_kingdom|Помочь {s13} занять трон {s14}
+qst_consult_with_minister|Посоветоваться с министром
+qst_consult_with_minister_text|Посоветуйтесь с вашим министром {s11}. Сейчас он находится в {s12}.
+qst_organize_feast|Устроить праздник
+qst_organize_feast_text|Доставить товары для торжества {reg59?вашему мужу:вашей жене}, {s11} в данный момент находится в {s12}.
+qst_resolve_dispute|Уладить разногласия
+qst_resolve_dispute_text|Уладить разногласия между {s11} и {s12}.
+qst_offer_gift|Доставить дар
+qst_offer_gift_text|Сделайте {s10} дар для того, чтобы обеспечить {reg4?ее:его} {s11}, {s12}.
+qst_denounce_lord|Обвинить лорда
+qst_denounce_lord_text|Публично обвините {s11}.
+qst_intrigue_against_lord|Строить козни против лорда
+qst_intrigue_against_lord_text|Раскритикуйте {s11}, оставаясь в тени.
+qst_track_down_bandits|Выследить бандитов
+qst_track_down_bandits_text|{s9} из {s4} попросил выследить {s6}, которые нападают на путешественников возле города.
+qst_track_down_provocateurs|Выследить провокаторов
+qst_track_down_provocateurs_text|{s9} из {s4} попросил выследить группу головорезов, нанятых, чтобы спровоцировать пограничный инцидент между {s5} и {s6}.
+qst_retaliate_for_border_incident|Отплатить за пограничный инцидент
+qst_retaliate_for_border_incident_text|{s9} из {s4} попросил одержать победу в сражении над {s5} из {s7}, провоцируя тем самым {s8} развязать войну.
+qst_raid_caravan_to_start_war|Спровоцировать войну нападением на караван
+qst_cause_provocation|Дать королевству причину напасть на другое
+qst_rescue_prisoner|Спасти или выкупить пленника
+qst_destroy_bandit_lair|Уничтожить логово бандитов
+qst_destroy_bandit_lair_text|{s9} из {s4} попросил найти {s6} и уничтожить его.
+qst_kennemer_jarl|Месть: Поговорить с ярлом Кеннемера
+qst_kennemer_jarl_missions|Месть: Работа на ярла
+qst_kennemer_mission_1|Задание ярла: Суд в монастыре
+qst_kennemer_mission_2|Задание ярла: Тиадерд должен умереть
+qst_kennemer_mission_3|Задание ярла: Убить короля
+qst_reginhard_donations|Просьба Регинхарда: Пожертвование для жертв войны
+qst_recruit_an_army|Задание ярла: Нанять воинов
+qst_doccinga_assault|Атака викингов: Спасти Доккюм от атаки Свена
+qst_doccinga_interrogation|Атака викингов: Допрос викинга
+qst_getting_ship|Атака викингов: Cудно и девушка
+qst_notes_companions|Заметки о ваших спутниках
+qst_notes_global|Ваши заметки
+qst_notes_frisa|Заметки о Фризии
+qst_notes_danmork|Заметки о Дании
+qst_notes_englaland|Заметки об Англии
+qst_sven_lair|Месть: Волчье логово
+qst_danmork_protection|Месть: Под крылом короля
+qst_revenge_sigurd|Месть: Поговорить с Сигурдом Змееглазым
+qst_collect_smen|Задание Сигурда: Набрать армию для Сигурда
+qst_bodo_letter|Месть: Самое важное письмо
+qst_the_holmgang|Хольмганг: Кто станет хирдманом?
+qst_the_fleet|Месть: Вторжение в Англию
+qst_sven_traitor|Месть: Свен - предатель
+qst_wessex_foragers|Осада: Фуражиры саксов
+qst_the_messengersn|Осада: Посланник
+qst_the_alliance|Месть: Союз
+qst_welsh_and_pictish|Завоеватель: Послужить причиной
+qst_cathach_colum|Быть викингом: 'Катах Колума Килле'
+qst_entregando_pieles|Быть викингом: Торговля пушниной
+qst_revenge_exchange|Месть: Ферма
+qst_ulf_testigo|Месть: Добиться расположения фермеров и ярлов
+qst_the_thing|Месть: Ассамблея
+qst_douar_an_enez|Месть: Дуарнене
+qst_aescesdun|Битва: Эсцедун
+qst_svenbn_final|Месть: Свен Бычья Шея
+qst_old_roman|Вал Адриана: Спасти голодающих
+qst_vc_menu|Viking Conquest системное меню.
+qst_vc_wounds|Viking Conquest система ранений.
+qst_sea_battle_spawn|a spawning system.
+qst_team_0_ships|a spawning system.
+qst_team_1_ships|a spawning system.
+qst_blank_quest_2|Сопроводить епископа до {s14}.
+qst_blank_quest_2_text|{s11} попросил сопроводить епископа из {s22} до {s14}.
+qst_blank_quest_3|Разграбить {s14}
+qst_blank_quest_3_text|{s11} попросил разграбить {s14} в окрестностях {s34} и доставить ему {reg33} пенни.
+qst_blank_quest_4|Найти и уничтожить отряд негодяев
+qst_blank_quest_4_text|{s8} попросил выследить отряд негодяев, которые ограбили его деревню {s9}.
+qst_blank_quest_6|Захватить и привести {reg5} женщин в {s3}
+qst_blank_quest_6_text|Староста деревни {s3} попросил привести {reg5} женщин в деревню в качестве пленников.
+qst_blank_quest_7|Вернуть сбежавшего раба в {s3}
+qst_blank_quest_7_text|Староста деревни {s3} попросил вернуть сбежавшего раба в деревню.
+qst_blank_quest_9|Доставить {reg33} кубков медовухи в {s3}
+qst_blank_quest_9_text|Священник в {s3} попросил привезти ему {reg33} кубков медовухи.
+qst_blank_quest_10|{s9} из {s3} просил вернуть {s13}.
+qst_blank_quest_10_text|{s9} из {s3} просил вернуть украденную {s13}.^^Осмотреть:^{s10}
+qst_blank_quest_11|Доставить {reg33} партий {s33} в {s3}
+qst_blank_quest_11_text|{s9} из {s3} попросил доставить ему {reg33} шт. {s33}
+qst_blank_quest_12|Доставить {reg33} древесины в {s3}
+qst_blank_quest_12_text|Аббат из {s3} попросил доставить ему {reg33} древесины.
+qst_blank_quest_13|Сигнал из прошлого
+qst_blank_quest_13_text|{s11} попросила разобраться с ее бывшим любовником-призраком, который предположительно находится в {s33}.
+qst_blank_quest_14|Разоблачить заговор с целью убийства
+qst_blank_quest_14_text|Кто-то попытался убить вас. Вы можете попробовать выяснить, кто желает вашей смерти, встретившись с доверенным лицом убийц в {s3}.
+qst_blank_quest_15|Разоблачить заговор с целью убийства
+qst_blank_quest_15_text|Доверенное лицо выдало лорда, который заказал убийство — это {s9}. Настало время встретиться с ним.
+qst_blank_quest_16|Доставить {reg25} шт. {s17} для {s11}
+qst_blank_quest_16_text|{s11} попросила привезти ей {reg25} шт. {s17}.
+qst_blank_quest_17|Доставить продукты для {s11}
+qst_blank_quest_17_text|{s11} попросила привезти ей два сыра и {reg25} {reg1?бут.} вина.
+qst_blank_quest_18|Доставить письмо для {s3}
+qst_blank_quest_18_text|{s11} попросила доставить письмо ее любовнику ({s3}).
+qst_blank_quest_19|Стать Конунгом всей Скандинавии (Konungr)
+qst_blank_quest_20|Стать Королем над всеми Бриттами (Vrenhin Lloegr)
+qst_blank_quest_21|Стать Верховным Королем всей Ирландии (Ard Ruire)
+qst_blank_quest_22|Стать Бретвальдой всей Англии (Brytenwalda)
+qst_blank_quest_23|Последние из Туата Де Дананн (Племена богини Дану)
+qst_blank_quest_24|Змей
+qst_blank_quest_25|Внуки Флатбертаха
+qst_blank_quest_26|Маел Бресаил 
+qst_blank_quest_27|Заметки об Ирландии
+qst_collect_men|Месть: Посетить деревню Доккюм
+qst_learn_where_merchant_brother_is|Доставить {reg3} голов скота в {s13}
+qst_save_relative_of_merchant|Напасть на логово бандитов
+qst_save_town_from_bandits|Спасти город от бандитов
+qst_quests_end|Quests end

@@ -1,0 +1,2503 @@
+﻿
+itm_no_item|НЕТ ПРЕДМЕТА
+itm_no_item_pl|НЕТ ПРЕДМЕТА
+itm_tutorial_spear|Копье
+itm_tutorial_spear_pl|Копье
+itm_tutorial_club|Дубина
+itm_tutorial_club_pl|Дубина
+itm_tutorial_battle_axe|Секира
+itm_tutorial_battle_axe_pl|Секира
+itm_tutorial_arrows|Стрелы
+itm_tutorial_arrows_pl|Стрелы
+itm_tutorial_bolts|Болты
+itm_tutorial_bolts_pl|Болты
+itm_tutorial_short_bow|Длинный Лук
+itm_tutorial_short_bow_pl|Длинный Лук
+itm_tutorial_crossbow|Арбалет
+itm_tutorial_crossbow_pl|Арбалет
+itm_tutorial_throwing_daggers|Метательные Копья
+itm_tutorial_throwing_daggers_pl|Метательные Копья
+itm_tutorial_saddle_horse|Ездовой Пони
+itm_tutorial_saddle_horse_pl|Ездовой Пони
+itm_tutorial_shield|Круглый Щит
+itm_tutorial_shield_pl|Круглый Щит
+itm_tutorial_staff_no_attack|Посох
+itm_tutorial_staff_no_attack_pl|посох
+itm_tutorial_staff|Посох
+itm_tutorial_staff_pl|Посох
+itm_tutorial_sword|Простой Меч
+itm_tutorial_sword_pl|Простой Меч
+itm_tutorial_axe|Топор
+itm_tutorial_axe_pl|Топор
+itm_tutorial_dagger|Длинный Кинжал
+itm_tutorial_dagger_pl|Длинный Кинжал
+itm_horse_meat|Конина
+itm_horse_meat_pl|Конина
+itm_practice_sword|Тренировочный Меч
+itm_practice_sword_pl|Тренировочный Меч
+itm_heavy_practice_sword|Тяжелый Тренировочный Меч
+itm_heavy_practice_sword_pl|Тяжелый Тренировочный Меч
+itm_practice_dagger|Тренировочный Длинный Кинжал
+itm_practice_dagger_pl|Тренировочный Длинный Кинжал
+itm_practice_axe|Тренировочный Тяжелый Топор
+itm_practice_axe_pl|Тренировочный Тяжелый Топор
+itm_arena_axe|Топор
+itm_arena_axe_pl|Топор
+itm_arena_sword|Меч
+itm_arena_sword_pl|Меч
+itm_arena_sword_two_handed|Двуручный Меч
+itm_arena_sword_two_handed_pl|Двуручный Меч
+itm_arena_lance|Копье
+itm_arena_lance_pl|Копье
+itm_practice_staff|Тренировочный Посох
+itm_practice_staff_pl|Тренировочный Посох
+itm_practice_lance|Тренировочное Копье
+itm_practice_lance_pl|Тренировочное Копье
+itm_practice_shield|Тренировочный Щит
+itm_practice_shield_pl|Тренировочный Щит
+itm_practice_bow|Тренировочный Длинный Лук
+itm_practice_bow_pl|Тренировочный Длинный Лук
+itm_practice_crossbow|Тренировочная Праща
+itm_practice_crossbow_pl|Тренировочная Праща
+itm_practice_javelin|Тренировочные Метательные Копья
+itm_practice_javelin_pl|Тренировочные Метательные Копья
+itm_practice_javelin_melee|Тренировочное Копье
+itm_practice_javelin_melee_pl|Тренировочное Копье
+itm_practice_throwing_daggers|Тренировочные Копья
+itm_practice_throwing_daggers_pl|Тренировочные Копья
+itm_practice_throwing_daggers_100_amount|Тренировочные Копья
+itm_practice_throwing_daggers_100_amount_pl|Тренировочные Копья
+itm_practice_horse|Тренировочный Ездовой Пони
+itm_practice_horse_pl|Тренировочный Ездовой Пони
+itm_practice_arrows|Тренировочные Стрелы
+itm_practice_arrows_pl|Тренировочные Стрелы
+itm_practice_bolts|Камни для Пращи
+itm_practice_bolts_pl|Камни для Пращи
+itm_practice_arrows_10_amount|Тренировочные Стрелы
+itm_practice_arrows_10_amount_pl|Тренировочные Стрелы
+itm_practice_arrows_100_amount|Тренировочные Стрелы
+itm_practice_arrows_100_amount_pl|Тренировочные Стрелы
+itm_practice_bolts_9_amount|Тренировочные Болты
+itm_practice_bolts_9_amount_pl|Тренировочные Болты
+itm_practice_boots|Тренировочные Болты
+itm_practice_boots_pl|Тренировочные Болты
+itm_red_tourney_armor|Красная Туника
+itm_red_tourney_armor_pl|Красная Туника
+itm_blue_tourney_armor|Синяя Туника
+itm_blue_tourney_armor_pl|Синяя Туника
+itm_green_tourney_armor|Зеленая Туника
+itm_green_tourney_armor_pl|Зеленая Туника
+itm_gold_tourney_armor|Белая Туника
+itm_gold_tourney_armor_pl|Белая Туника
+itm_red_tourney_helmet|Шлем
+itm_red_tourney_helmet_pl|Шлем
+itm_blue_tourney_helmet|Шлем
+itm_blue_tourney_helmet_pl|Шлем
+itm_green_tourney_helmet|Шлем
+itm_green_tourney_helmet_pl|Шлем
+itm_gold_tourney_helmet|Шлем
+itm_gold_tourney_helmet_pl|Шлем
+itm_arena_shield_red|Легкий Круглый Щит
+itm_arena_shield_red_pl|Легкий Круглый Щит
+itm_arena_shield_blue|Легкий Круглый Щит
+itm_arena_shield_blue_pl|Легкий Круглый Щит
+itm_arena_shield_green|Легкий Круглый Щит
+itm_arena_shield_green_pl|Легкий Круглый Щит
+itm_arena_shield_yellow|Легкий Круглый Щит
+itm_arena_shield_yellow_pl|Легкий Круглый Щит
+itm_arena_armor_white|Белая Туника
+itm_arena_armor_white_pl|Белая Туника
+itm_arena_armor_red|Красная Туника
+itm_arena_armor_red_pl|Красная Туника
+itm_arena_armor_blue|Синяя Туника
+itm_arena_armor_blue_pl|Синяя Туника
+itm_arena_armor_green|Зеленая Туника
+itm_arena_armor_green_pl|Зеленая Туника
+itm_arena_armor_yellow|Желтая Туника
+itm_arena_armor_yellow_pl|Желтая Туника
+itm_arena_tunic_white|Белая Туника
+itm_arena_tunic_white_pl|Белая Туника
+itm_arena_tunic_red|Красная Туника
+itm_arena_tunic_red_pl|Красная Туника
+itm_arena_tunic_blue|Синяя Туника
+itm_arena_tunic_blue_pl|Синяя Туника
+itm_arena_tunic_green|Зеленая Туника
+itm_arena_tunic_green_pl|Зеленая Туника
+itm_arena_tunic_yellow|Желтая Туника
+itm_arena_tunic_yellow_pl|Желтая Туника
+itm_arena_helmet_red|Шлем с Наносником
+itm_arena_helmet_red_pl|Шлем с Наносником
+itm_arena_helmet_blue|Шлем с Наносником
+itm_arena_helmet_blue_pl|Шлем с Наносником
+itm_arena_helmet_green|Шлем с Наносником
+itm_arena_helmet_green_pl|Шлем с Наносником
+itm_arena_helmet_yellow|Шлем с Наносником
+itm_arena_helmet_yellow_pl|Шлем с Наносником
+itm_steppe_helmet_white|Шлем с Наносником
+itm_steppe_helmet_white_pl|Шлем с Наносником
+itm_steppe_helmet_red|Шлем с Наносником
+itm_steppe_helmet_red_pl|Шлем с Наносником
+itm_steppe_helmet_blue|Шлем с Наносником
+itm_steppe_helmet_blue_pl|Шлем с Наносником
+itm_steppe_helmet_green|Шлем с Наносником
+itm_steppe_helmet_green_pl|Шлем с Наносником
+itm_steppe_helmet_yellow|Шлем с Наносником
+itm_steppe_helmet_yellow_pl|Шлем с Наносником
+itm_tourney_helm_white|Шлем с Наносником
+itm_tourney_helm_white_pl|Шлем с Наносником
+itm_tourney_helm_red|Шлем с Наносником
+itm_tourney_helm_red_pl|Шлем с Наносником
+itm_tourney_helm_blue|Шлем с Наносником
+itm_tourney_helm_blue_pl|Шлем с Наносником
+itm_tourney_helm_green|Шлем с Наносником
+itm_tourney_helm_green_pl|Шлем с Наносником
+itm_tourney_helm_yellow|Шлем с Наносником
+itm_tourney_helm_yellow_pl|Шлем с Наносником
+itm_arena_turban_red|Шапка
+itm_arena_turban_red_pl|Шапка
+itm_arena_turban_blue|Шапка
+itm_arena_turban_blue_pl|Шапка
+itm_arena_turban_green|Шапка
+itm_arena_turban_green_pl|Шапка
+itm_arena_turban_yellow|Шапка
+itm_arena_turban_yellow_pl|Шапка
+itm_book_tactics|История Пелопоннесской Войны
+itm_book_tactics_pl|История Пелопоннесской Войны
+itm_book_persuasion|Риторика для Геренния
+itm_book_persuasion_pl|Риторика для Геренния
+itm_book_leadership|Жизнь Александра Великого
+itm_book_leadership_pl|Жизнь Александра Великого
+itm_book_intelligence|Пайдейя
+itm_book_intelligence_pl|Пайдейя
+itm_book_trade|Экономика, от Аристотеля
+itm_book_trade_pl|Экономика, от Аристотеля
+itm_book_weapon_mastery|Полития Афинцев и Спартанцев, от Ксенофонта
+itm_book_weapon_mastery_pl|Полития Афинцев и Спартанцев, от Ксенофонта
+itm_book_engineering|Архитектура, от Витрувия
+itm_book_engineering_pl|Архитектура, от Витрувия
+itm_book_wound_treatment_reference|Материя Медика, от Диоскорида
+itm_book_wound_treatment_reference_pl|Материя Медика, от Диоскорида
+itm_book_training_reference|Краткое изложение военного дела
+itm_book_training_reference_pl|Краткое изложение военного дела
+itm_book_surgery_reference|Синопсис, от Галена Клавдия
+itm_book_surgery_reference_pl|Синопсис, от Галена Клавдия
+itm_relic|Катах Колума Килле
+itm_relic_pl|Катах Колума Килле
+itm_mead|Медовуха
+itm_mead_pl|Медовуха
+itm_salt|Соль
+itm_salt_pl|Соль
+itm_tar|Смола
+itm_tar_pl|Смола
+itm_jewelry|Драгоценности
+itm_jewelry_pl|Драгоценности
+itm_raw_flax|Лён
+itm_raw_flax_pl|Лён
+itm_linen|Льняная Ткань
+itm_linen_pl|Льняная Ткань
+itm_wool|Шерсть
+itm_wool_pl|Шерсть
+itm_vc_wool_cloth|Шерстяная Ткань
+itm_vc_wool_cloth_pl|Шерстяная Ткань
+itm_amber|Янтарь
+itm_amber_pl|Янтарь
+itm_ivory|Моржовая Кость
+itm_ivory_pl|Моржовая Кость
+itm_silver|Серебро
+itm_silver_pl|Серебро
+itm_iron|Железо
+itm_iron_pl|Железо
+itm_stone|Камень
+itm_stone_pl|Камень
+itm_tools|Инструменты
+itm_tools_pl|Инструменты
+itm_vc_raw_leather|Шкуры
+itm_vc_raw_leather_pl|Шкуры
+itm_timber|Древесина
+itm_timber_pl|Древесина
+itm_soapstone|Мыло
+itm_soapstone_pl|Мыло
+itm_vc_furs|Меха
+itm_vc_furs_pl|Меха
+itm_wine|Вино
+itm_wine_pl|Вино
+itm_ale|Эль
+itm_ale_pl|Эль
+itm_smoked_fish|Копченая Рыба
+itm_smoked_fish_pl|Копченая Рыба
+itm_cheese|Сыр
+itm_cheese_pl|Сыр
+itm_vc_honey|Мед
+itm_vc_honey_pl|Мед
+itm_sausages|Колбаса
+itm_sausages_pl|Колбаса
+itm_cabbages|Овощи
+itm_cabbages_pl|Овощи
+itm_dried_meat|Сушеное Мясо
+itm_dried_meat_pl|Сушеное Мясо
+itm_apples|Фрукты
+itm_apples_pl|Фрукты
+itm_barley|Ячмень
+itm_barley_pl|Ячмень
+itm_venison|Кабанина
+itm_venison_pl|Кабанина
+itm_grain|Пшеница
+itm_grain_pl|Пшеница
+itm_cattle_meat|Говядина
+itm_cattle_meat_pl|Говядина
+itm_bread|Хлеб
+itm_bread_pl|Хлеб
+itm_chicken|Курица
+itm_chicken_pl|Курица
+itm_pork|Свинина
+itm_pork_pl|Свинина
+itm_butter|Масло
+itm_butter_pl|Масло
+itm_siege_supply|Припасы
+itm_siege_supply_pl|Припасы
+itm_quest_wine|Вино
+itm_quest_wine_pl|Вино
+itm_quest_ale|Эль
+itm_quest_ale_pl|Эль
+itm_common_horse|Лошадь
+itm_common_horse_pl|Лошадь
+itm_common_horse2|Лошадь
+itm_common_horse2_pl|Лошадь
+itm_common_pony|Пони
+itm_common_pony_pl|Пони
+itm_common_pony2|Пони
+itm_common_pony2_pl|Пони
+itm_wild_horse|Лошадь
+itm_wild_horse_pl|Лошадь
+itm_wild_horse2|Лошадь
+itm_wild_horse2_pl|Лошадь
+itm_wild_pony|Пони
+itm_wild_pony_pl|Пони
+itm_wild_pony2|Пони
+itm_wild_pony2_pl|Пони
+itm_cow1|Корова
+itm_cow1_pl|Корова
+itm_cow2|Корова
+itm_cow2_pl|Корова
+itm_arrows|Стрелы
+itm_arrows_pl|Стрелы
+itm_khergit_arrows|Бронебойные Стрелы
+itm_khergit_arrows_pl|Бронебойные Стрелы
+itm_barbed_arrows|Зазубренные Стрелы
+itm_barbed_arrows_pl|Зазубренные Стрелы
+itm_bodkin_arrows|Шиловидные Стрелы
+itm_bodkin_arrows_pl|Шиловидные Стрелы
+itm_bolts|Болты
+itm_bolts_pl|Болты
+itm_bolts2|Бронебойные Болты
+itm_bolts2_pl|Бронебойные Болты
+itm_bolts3|Зазубренные Болты
+itm_bolts3_pl|Зазубренные Болты
+itm_bolts4|Шиловидные Болты
+itm_bolts4_pl|Шиловидные Болты
+itm_pilgrim_disguise|Одеяние Паломника
+itm_pilgrim_disguise_pl|Одеяние Паломника
+itm_pilgrim_hood|Капюшон Паломника
+itm_pilgrim_hood_pl|Капюшон Паломника
+itm_leather_gloves|Кожаные Перчатки
+itm_leather_gloves_pl|Кожаные Перчатки
+itm_carbatinae_1|Кожаные Сапоги
+itm_carbatinae_1_pl|Кожаные Сапоги
+itm_carbatinae_2|Тканевые Сапоги
+itm_carbatinae_2_pl|Тканевые Сапоги
+itm_carbatinae_3|Кожаные Сапоги
+itm_carbatinae_3_pl|Кожаные Сапоги
+itm_carbatinae_4|Кожаные Сапоги
+itm_carbatinae_4_pl|Кожаные Сапоги
+itm_carbatinae_5|Тканевые Сапоги
+itm_carbatinae_5_pl|Тканевые Сапоги
+itm_carbatinae_6|Кожаные Сапоги
+itm_carbatinae_6_pl|Кожаные Сапоги
+itm_carbatinae_7|Тканевые Сапоги
+itm_carbatinae_7_pl|Тканевые Сапоги
+itm_carbatinae_8|Кожаные Сапоги
+itm_carbatinae_8_pl|Кожаные Сапоги
+itm_carbatinae_9|Тканевые Сапоги
+itm_carbatinae_9_pl|Тканевые Сапоги
+itm_carbatinae_10|Кожаные Сапоги
+itm_carbatinae_10_pl|Кожаные Сапоги
+itm_carbatinae_vc1|Сапоги
+itm_carbatinae_vc1_pl|Сапоги
+itm_carbatinae_vc2|Сапоги
+itm_carbatinae_vc2_pl|Сапоги
+itm_carbatinae_vc3|Сапоги
+itm_carbatinae_vc3_pl|Сапоги
+itm_carbatinae_vc4|Хорошие Сапоги
+itm_carbatinae_vc4_pl|Хорошие Сапоги
+itm_carbatinae_vc5|Сапоги
+itm_carbatinae_vc5_pl|Сапоги
+itm_carbatinae_vc6|Сапоги
+itm_carbatinae_vc6_pl|Сапоги
+itm_carbatinae_1s|Кожаные Сапоги
+itm_carbatinae_1s_pl|Кожаные Сапоги
+itm_carbatinae_2s|Тканевые Сапоги
+itm_carbatinae_2s_pl|Тканевые Сапоги
+itm_carbatinae_3s|Тканевые Сапоги
+itm_carbatinae_3s_pl|Тканевые Сапоги
+itm_carbatinae_4s|Сыромятные Сапоги
+itm_carbatinae_4s_pl|Сыромятные Сапоги
+itm_carbatinae_5s|Сыромятные Сапоги
+itm_carbatinae_5s_pl|Сыромятные Сапоги
+itm_carbatinae_6s|Сапоги
+itm_carbatinae_6s_pl|Сапоги
+itm_carbatinae_vc1s|Хорошие Сапоги
+itm_carbatinae_vc1s_pl|Хорошие Сапоги
+itm_carbatinae_vc2s|Сапоги
+itm_carbatinae_vc2s_pl|Сапоги
+itm_carbatinae_vc3s|Хорошие Сапоги
+itm_carbatinae_vc3s_pl|Хорошие Сапоги
+itm_carbatinae_vc4s|Тканевые Сапоги
+itm_carbatinae_vc4s_pl|Тканевые Сапоги
+itm_carbatinae_1v|Сапоги
+itm_carbatinae_1v_pl|Сапоги
+itm_carbatinae_2v|Тканевые Сапоги
+itm_carbatinae_2v_pl|Тканевые Сапоги
+itm_carbatinae_3v|Тканевые Сапоги
+itm_carbatinae_3v_pl|Тканевые Сапоги
+itm_carbatinae_4v|Хорошие Сапоги
+itm_carbatinae_4v_pl|Хорошие Сапоги
+itm_carbatinae_5v|Сыромятные Сапоги
+itm_carbatinae_5v_pl|Сыромятные Сапоги
+itm_carbatinae_6v|Тканевые Сапоги
+itm_carbatinae_6v_pl|Тканевые Сапоги
+itm_carbatinae_vc1v|Сапоги
+itm_carbatinae_vc1v_pl|Сапоги
+itm_carbatinae_vc2v|Хорошие Сапоги
+itm_carbatinae_vc2v_pl|Хорошие Сапоги
+itm_carbatinae_11q|Кожаные Сапоги
+itm_carbatinae_11q_pl|Кожаные Сапоги
+itm_carbatinae_12q|Кожаные Сапоги
+itm_carbatinae_12q_pl|Кожаные Сапоги
+itm_carbatinae_11qs|Хорошие Сапоги
+itm_carbatinae_11qs_pl|Хорошие Сапоги
+itm_carbatinae_12qs|Хорошие Сапоги
+itm_carbatinae_12qs_pl|Хорошие Сапоги
+itm_carbatinae_13qs|Хорошие Сапоги
+itm_carbatinae_13qs_pl|Хорошие Сапоги
+itm_carbatinae_14qs|Хорошие Сапоги
+itm_carbatinae_14qs_pl|Хорошие Сапоги
+itm_carbatinae_14qv|Хорошие Сапоги
+itm_carbatinae_14qv_pl|Хорошие Сапоги
+itm_bare_foot_man|Дешевые Сапоги
+itm_bare_foot_man_pl|Дешевые Сапоги
+itm_just_man_boots_medium|Сыромятные Сапоги
+itm_just_man_boots_medium_pl|Сыромятные Сапоги
+itm_just_man_boots_light|Легкие Сапоги
+itm_just_man_boots_light_pl|Легкие Сапоги
+itm_just_man_shoes|Кожаные Сапоги
+itm_just_man_shoes_pl|Кожаные Сапоги
+itm_just_man_boots_dark|Легкие Сапоги
+itm_just_man_boots_dark_pl|Легкие Сапоги
+itm_gaelshoes_1|Ирландские Сапоги
+itm_gaelshoes_1_pl|Ирландские Сапоги
+itm_gaelshoes_2|Ирландские Сапоги
+itm_gaelshoes_2_pl|Ирландские Сапоги
+itm_gaelshoes_3|Ирландские Сапоги
+itm_gaelshoes_3_pl|Ирландские Сапоги
+itm_womenshoes_1|Простые Сапоги
+itm_womenshoes_1_pl|Простые Сапоги
+itm_womenshoes_2|Простые Сапоги
+itm_womenshoes_2_pl|Простые Сапоги
+itm_womenshoes_3|Простые Сапоги
+itm_womenshoes_3_pl|Простые Сапоги
+itm_womenshoes_4|Простые Сапоги
+itm_womenshoes_4_pl|Простые Сапоги
+itm_womenshoes_5|Простые Сапоги
+itm_womenshoes_5_pl|Простые Сапоги
+itm_womenshoes_6|Простые Сапоги
+itm_womenshoes_6_pl|Простые Сапоги
+itm_womenshoes_7|Простые Сапоги
+itm_womenshoes_7_pl|Простые Сапоги
+itm_womenshoes_8|Простые Сапоги
+itm_womenshoes_8_pl|Простые Сапоги
+itm_long_tunic1|Фризский Легкий Доспех
+itm_long_tunic1_pl|Фризский Легкий Доспех
+itm_nobleman_outfit|Саксонский Легкий Доспех
+itm_nobleman_outfit_pl|Саксонский Легкий Доспех
+itm_troll_tunic|Туника Тролля
+itm_troll_tunic_pl|Туника Тролля
+itm_priest1|Мантия Священника
+itm_priest1_pl|Мантия Священника
+itm_priest2|Мантия Священника
+itm_priest2_pl|Мантия Священника
+itm_robe|Мантия Монаха
+itm_robe_pl|Мантия Монаха
+itm_robe2|Мантия Монаха
+itm_robe2_pl|Мантия Монаха
+itm_robe3|Мантия Монаха
+itm_robe3_pl|Мантия Монаха
+itm_robe4|Мантия Монаха
+itm_robe4_pl|Мантия Монаха
+itm_robe5|Мантия Монаха
+itm_robe5_pl|Мантия Монаха
+itm_robe6|Мантия Монаха
+itm_robe6_pl|Мантия Монаха
+itm_robe7|Мантия Монаха
+itm_robe7_pl|Мантия Монаха
+itm_robe8|Мантия Монаха
+itm_robe8_pl|Мантия Монаха
+itm_robe9|Мантия Монаха
+itm_robe9_pl|Мантия Монаха
+itm_robe10|Мантия Монаха
+itm_robe10_pl|Мантия Монаха
+itm_ptunic_1|Простая Английская Туника
+itm_ptunic_1_pl|Простая Английская Туника
+itm_ptunic_2|Простой Английский Доспех
+itm_ptunic_2_pl|Простой Английский Доспех
+itm_ptunic_3|Английская Туника
+itm_ptunic_3_pl|Английская Туника
+itm_ptunic_4|Английская Туника
+itm_ptunic_4_pl|Английская Туника
+itm_ptunic_5|Простая Английская Туника
+itm_ptunic_5_pl|Простая Английская Туника
+itm_ptunic_6|Английская Туника
+itm_ptunic_6_pl|Английская Туника
+itm_ptunic_7|Старая Туника
+itm_ptunic_7_pl|Плотная Английская Туника
+itm_ptunic_8|Плотная Английская Туника
+itm_ptunic_8_pl|Плотная Английская Туника
+itm_ptunic_9|Плотная Английская Туника
+itm_ptunic_9_pl|Плотная Английская Туника
+itm_ptunic_10|Плотная Английская Туника
+itm_ptunic_10_pl|Плотная Английская Туника
+itm_ptunic_11|Плотная Английская Туника
+itm_ptunic_11_pl|Плотная Английская Туника
+itm_ptunic_12|Плотная Английская Туника
+itm_ptunic_12_pl|Плотная Английская Туника
+itm_btunic_1|Накидка
+itm_btunic_1_pl|Накидка
+itm_btunic_2|Штаны
+itm_btunic_2_pl|Штаны
+itm_btunic_3|Норманнская Туника
+itm_btunic_3_pl|Норманнская Туника
+itm_btunic_4|Норманнская Туника
+itm_btunic_4_pl|Норманнская Туника
+itm_btunic_5|Норманнская Туника
+itm_btunic_5_pl|Норманнская Туника
+itm_btunic_6|Норманнская Туника
+itm_btunic_6_pl|Норманнская Туника
+itm_btunic_7|Норманнская Туника
+itm_btunic_7_pl|Норманнская Туника
+itm_btunic_8|Простая Норманнская Туника
+itm_btunic_8_pl|Простая Норманнская Туника
+itm_btunic_9|Простая Норманнская Туника
+itm_btunic_9_pl|Простая Норманнская Туника
+itm_btunic_10|Простая Норманнская Туника
+itm_btunic_10_pl|Простая Норманнская Туника
+itm_btunic_11|Норманнская Туника
+itm_btunic_11_pl|Норманнская Туника
+itm_btunic_12|Норманнский Легкий Доспех
+itm_btunic_12_pl|Норманнский Легкий Доспех
+itm_btunic_13|Норманнская Туника
+itm_btunic_13_pl|Норманнская Туника
+itm_btunic_14|Норманнская Туника
+itm_btunic_14_pl|Норманнская Туника
+itm_btunic_15|Норманнский Легкий Доспех
+itm_btunic_15_pl|Норманнский Легкий Доспех
+itm_btunic_16|Норманнский Легкий Доспех
+itm_btunic_16_pl|Норманнский Легкий Доспех
+itm_hoodtunic_01|Туника
+itm_hoodtunic_01_pl|Туника
+itm_hoodtunic_02|Туника
+itm_hoodtunic_02_pl|Туника
+itm_hoodtunic_03|Туника
+itm_hoodtunic_03_pl|Туника
+itm_hoodtunic_04|Туника
+itm_hoodtunic_04_pl|Туника
+itm_hoodtunic_05|Туника
+itm_hoodtunic_05_pl|Туника
+itm_hoodtunic_06|Туника
+itm_hoodtunic_06_pl|Туника
+itm_hoodtunic_07|Туника
+itm_hoodtunic_07_pl|Туника
+itm_hoodtunic_08|Туника
+itm_hoodtunic_08_pl|Туника
+itm_bl_tunic01|Штаны
+itm_bl_tunic01_pl|Штаны
+itm_bl_tunic02|Саксонский Легкий Доспех
+itm_bl_tunic02_pl|Саксонский Легкий Доспех
+itm_bl_tunic03|Саксонский Легкий Доспех
+itm_bl_tunic03_pl|Саксонский Легкий Доспех
+itm_bl_tunic04|Простая Саксонская Туника
+itm_bl_tunic04_pl|Простая Саксонская Туника
+itm_bl_tunic05|Простая Саксонская Туника
+itm_bl_tunic05_pl|Простая Саксонская Туника
+itm_bl_tunic06|Саксонская Туника
+itm_bl_tunic06_pl|Саксонская Туника
+itm_bl_tunic07|Саксонская Туника
+itm_bl_tunic07_pl|Саксонская Туника
+itm_bl_tunic08|Плотная Саксонская Туника
+itm_bl_tunic08_pl|Плотная Саксонская Туника
+itm_bl_tunic09|Саксонский Легкий Доспех
+itm_bl_tunic09_pl|Саксонский Легкий Доспех
+itm_bl_tunic10|Саксонская Туника
+itm_bl_tunic10_pl|Саксонская Туника
+itm_bl_tunic11|Саксонская Туника
+itm_bl_tunic11_pl|Саксонская Туника
+itm_bl_tunic12|Саксонская Туника
+itm_bl_tunic12_pl|Саксонская Туника
+itm_red_cloak|Саксонская Туника
+itm_red_cloak_pl|Саксонская Туника
+itm_yellow_cloak|Элитная Фризская Туника
+itm_yellow_cloak_pl|Элитная Фризская Туника
+itm_green_cloak|Шотландский Легкий Доспех
+itm_green_cloak_pl|Шотландский Легкий Доспех
+itm_blue_cloak|Туника
+itm_blue_cloak_pl|Туника
+itm_leather_cloak|Туника
+itm_leather_cloak_pl|Туника
+itm_yellow2_cloak|Простая Английская Туника
+itm_yellow2_cloak_pl|Простая Английская Туника
+itm_briton_tunic1|Накидка
+itm_briton_tunic1_pl|Накидка
+itm_briton_tunic2|Штаны
+itm_briton_tunic2_pl|Штаны
+itm_briton_tunic3|Бриттская Туника
+itm_briton_tunic3_pl|Бриттская Туника
+itm_briton_tunic4|Простая Бриттская Туника
+itm_briton_tunic4_pl|Простая Бриттская Туника
+itm_briton_tunic5|Простая Бриттская Туника
+itm_briton_tunic5_pl|Простая Бриттская Туника
+itm_briton_tunic6|Простая Бриттская Туника
+itm_briton_tunic6_pl|Простая Бриттская Туника
+itm_briton_tunic7|Бриттская Туника
+itm_briton_tunic7_pl|Бриттская Туника
+itm_briton_tunic8|Бриттский Легкий Доспех
+itm_briton_tunic8_pl|Бриттский Легкий Доспех
+itm_briton_tunic9|Бриттская Туника
+itm_briton_tunic9_pl|Бриттская Туника
+itm_briton_tunic10|Бриттская Туника
+itm_briton_tunic10_pl|Бриттская Туника
+itm_briton_tunic11|Бриттская Туника
+itm_briton_tunic11_pl|Бриттская Туника
+itm_briton_tunic12|Бриттская Туника
+itm_briton_tunic12_pl|Бриттская Туника
+itm_briton_tunic13|Бриттская Туника
+itm_briton_tunic13_pl|Бриттская Туника
+itm_briton_tunic14|Бриттская Туника
+itm_briton_tunic14_pl|Бриттская Туника
+itm_briton_tunic15|Шотландская Туника
+itm_briton_tunic15_pl|Шотландская Туника
+itm_briton_tunic16|Шотландская Туника
+itm_briton_tunic16_pl|Шотландская Туника
+itm_briton_tunic17|Шотландская Туника
+itm_briton_tunic17_pl|Шотландская Туника
+itm_briton_tunic18|Шотландская Туника
+itm_briton_tunic18_pl|Шотландская Туника
+itm_briton_tunic19|Шотландский Легкий Доспех
+itm_briton_tunic19_pl|Шотландский Легкий Доспех
+itm_briton_tunic20|Ирландская Туника с Капюшоном
+itm_briton_tunic20_pl|Ирландская Туника с Капюшоном
+itm_briton_tunic21|Ирландская Туника с Капюшоном
+itm_briton_tunic21_pl|Ирландская Туника с Капюшоном
+itm_briton_tunic22|Ирландская Туника с Капюшоном
+itm_briton_tunic22_pl|Ирландская Туника с Капюшоном
+itm_briton_tunic23|Ирландская Туника с Капюшоном
+itm_briton_tunic23_pl|Ирландская Туника с Капюшоном
+itm_briton_tunic24|Ирландская Туника
+itm_briton_tunic24_pl|Ирландская Туника
+itm_briton_tunic25|Ирландская Туника
+itm_briton_tunic25_pl|Ирландская Туника
+itm_briton_tunic26|Ирландская Туника
+itm_briton_tunic26_pl|Ирландская Туника
+itm_briton_tunic27|Ирландская Туника
+itm_briton_tunic27_pl|Ирландская Туника
+itm_briton_tunic28|Ирландская Туника
+itm_briton_tunic28_pl|Ирландская Туника
+itm_celta_capa1|Ирландская Туника
+itm_celta_capa1_pl|Ирландская Туника
+itm_celta_capa2|Ирландская Длинная Накидка
+itm_celta_capa2_pl|Ирландская Длинная Накидка
+itm_celta_capa3|Ирландский Штаны
+itm_celta_capa3_pl|Ирландский Штаны
+itm_celta_capa4|Ирландский Штаны
+itm_celta_capa4_pl|Ирландский Штаны
+itm_brat1|Ирландская Роскошная Накидка
+itm_brat1_pl|Ирландская Роскошная Накидка
+itm_brat2|Ирландская Роскошная Накидка
+itm_brat2_pl|Ирландская Роскошная Накидка
+itm_brat3|Ирландский Легкий Доспех
+itm_brat3_pl|Ирландский Легкий Доспех
+itm_brat4|Ирландский Легкий Доспех
+itm_brat4_pl|Ирландский Легкий Доспех
+itm_gael_tunic_01|Шотландская Туника
+itm_gael_tunic_01_pl|Шотландская Туника
+itm_gael_tunic_02|Шотландская Туника
+itm_gael_tunic_02_pl|Шотландская Туника
+itm_gael_tunic_03|Английская Туника
+itm_gael_tunic_03_pl|Английская Туника
+itm_gael_tunic_04|Английская Туника
+itm_gael_tunic_04_pl|Английская Туника
+itm_gael_tunic_05|Ирландская Туника с Накидкой
+itm_gael_tunic_05_pl|Ирландская Туника с Накидкой
+itm_gael_tunic_06|Ирландская Туника с Накидкой
+itm_gael_tunic_06_pl|Ирландская Туника с Накидкой
+itm_gael_tunic_07|Ирландская Туника
+itm_gael_tunic_07_pl|Ирландская Туника
+itm_gael_tunic_08|Ирландская Туника с Капюшоном
+itm_gael_tunic_08_pl|Ирландская Туника с Капюшоном
+itm_gael_hoodtunic_09|Ирландская Туника с Капюшоном
+itm_gael_hoodtunic_09_pl|Ирландская Туника с Капюшоном
+itm_gael_hoodtunic_10|Ирландская Туника с Капюшоном
+itm_gael_hoodtunic_10_pl|Ирландская Туника с Капюшоном
+itm_gael_hoodtunic_11|Ирландская Туника с Капюшоном
+itm_gael_hoodtunic_11_pl|Ирландская Туника с Капюшоном
+itm_gael_hoodtunic_12|Ирландский Легкий Доспех
+itm_gael_hoodtunic_12_pl|Ирландский Легкий Доспех
+itm_picts_tunic_09|Норманнские Штаны
+itm_picts_tunic_09_pl|Норманнские Штаны
+itm_picts_tunic_10|Норманнские Штаны
+itm_picts_tunic_10_pl|Норманнские Штаны
+itm_picts_tunic_11|Норманнская Накидка
+itm_picts_tunic_11_pl|Норманнская Накидка
+itm_picts_tunic_12|Бриттский Легкий Доспех
+itm_picts_tunic_12_pl|Бриттский Легкий Доспех
+itm_picts_tunic_13|Бриттская Туника
+itm_picts_tunic_13_pl|Бриттская Туника
+itm_picts_tunic_14|Штаны
+itm_picts_tunic_14_pl|Штаны
+itm_picts_tunic_15|Штаны
+itm_picts_tunic_15_pl|Штаны
+itm_picts_tunic_16|Фризские Штаны
+itm_picts_tunic_16_pl|Фризские Штаны
+itm_pictish_painted1|Шотландский Раскрас
+itm_pictish_painted1_pl|Шотландский Раскрас
+itm_pictish_painted2|Шотландский Раскрас
+itm_pictish_painted2_pl|Шотландский Раскрас
+itm_pictish_painted3|Шотландский Раскрас
+itm_pictish_painted3_pl|Шотландский Раскрас
+itm_pictish_painted4|Шотландский Раскрас
+itm_pictish_painted4_pl|Шотландский Раскрас
+itm_picts_hoodtunic_01|Шотландская Накидка
+itm_picts_hoodtunic_01_pl|Шотландская Накидка
+itm_picts_hoodtunic_02|Шотландская Накидка
+itm_picts_hoodtunic_02_pl|Шотландская Накидка
+itm_picts_hoodtunic_03|Шотландский Капюшон
+itm_picts_hoodtunic_03_pl|Шотландский Капюшон
+itm_picts_hoodtunic_04|Шотландский Капюшон
+itm_picts_hoodtunic_04_pl|Шотландский Капюшон
+itm_picts_hoodtunic_05|Шотландский Капюшон
+itm_picts_hoodtunic_05_pl|Шотландский Капюшон
+itm_picts_hoodtunic_06|Шотландский Капюшон
+itm_picts_hoodtunic_06_pl|Шотландский Капюшон
+itm_picts_hoodtunic_07|Шотландский Капюшон
+itm_picts_hoodtunic_07_pl|Шотландский Капюшон
+itm_picts_hoodtunic_11|Шотландская Туника с Накидкой
+itm_picts_hoodtunic_11_pl|Шотландская Туника с Накидкой
+itm_picts_hoodtunic_12|Шотландская Туника с Накидкой
+itm_picts_hoodtunic_12_pl|Шотландская Туника с Накидкой
+itm_picts_hoodtunic_13|Шотландская Туника с Накидкой
+itm_picts_hoodtunic_13_pl|Шотландская Туника с Накидкой
+itm_picts_hoodtunic_14|Шотландская Туника с Капюшоном
+itm_picts_hoodtunic_14_pl|Шотландская Туника с Капюшоном
+itm_picts_hoodtunic_15|Шотландская Туника с Капюшоном
+itm_picts_hoodtunic_15_pl|Шотландская Туника с Капюшоном
+itm_picts_hoodtunic_16|Шотландская Туника с Капюшоном
+itm_picts_hoodtunic_16_pl|Шотландская Туника с Капюшоном
+itm_picts_hoodtunic_17|Шотландская Туника с Капюшоном
+itm_picts_hoodtunic_17_pl|Шотландская Туника с Капюшоном
+itm_picts_hoodtunic_18|Шотландский Легкий Доспех
+itm_picts_hoodtunic_18_pl|Шотландский Легкий Доспех
+itm_linen_tunic|Шотландская Туника
+itm_linen_tunic_pl|Шотландская Туника
+itm_woman_saxon1|Саксонское Платье
+itm_woman_saxon1_pl|Саксонское Платье
+itm_woman_saxon2|Саксонское Платье
+itm_woman_saxon2_pl|Саксонское Платье
+itm_woman_saxon3|Саксонское Платье
+itm_woman_saxon3_pl|Саксонское Платье
+itm_woman_saxon4|Саксонское Платье
+itm_woman_saxon4_pl|Саксонское Платье
+itm_woman_saxon5|Саксонское Платье
+itm_woman_saxon5_pl|Саксонское Платье
+itm_woman_saxon6|Саксонское Платье
+itm_woman_saxon6_pl|Саксонское Платье
+itm_woman_saxon7|Саксонское Платье
+itm_woman_saxon7_pl|Саксонское Платье
+itm_woman_saxon8|Саксонское Платье
+itm_woman_saxon8_pl|Саксонское Платье
+itm_woman_saxon9|Саксонское Платье
+itm_woman_saxon9_pl|Саксонское Платье
+itm_woman_saxon10|Саксонское Платье
+itm_woman_saxon10_pl|Саксонское Платье
+itm_woman_saxon11|Саксонское Платье
+itm_woman_saxon11_pl|Саксонское Платье
+itm_richwoman_saxon1|Роскошное Саксонское Платье
+itm_richwoman_saxon1_pl|Роскошное Саксонское Платье
+itm_richwoman_saxon2|Роскошное Саксонское Платье
+itm_richwoman_saxon2_pl|Роскошное Саксонское Платье
+itm_richwoman_saxon3|Роскошное Саксонское Платье
+itm_richwoman_saxon3_pl|Роскошное Саксонское Платье
+itm_richwoman_saxon4|Роскошное Саксонское Платье
+itm_richwoman_saxon4_pl|Роскошное Саксонское Платье
+itm_richwoman_saxon5|Роскошное Саксонское Платье
+itm_richwoman_saxon5_pl|Роскошное Саксонское Платье
+itm_richwoman_saxon6|Роскошное Саксонское Платье
+itm_richwoman_saxon6_pl|Роскошное Саксонское Платье
+itm_richwoman_saxon7|Роскошное Саксонское Платье
+itm_richwoman_saxon7_pl|Роскошное Саксонское Платье
+itm_richwoman_saxon8|Роскошное Саксонское Платье
+itm_richwoman_saxon8_pl|Роскошное Саксонское Платье
+itm_richwoman_saxon9|Роскошное Саксонское Платье
+itm_richwoman_saxon9_pl|Роскошное Саксонское Платье
+itm_queenwoman_saxon|Королевское Саксонское Платье
+itm_queenwoman_saxon_pl|Королевское Саксонское Платье
+itm_queenpict_long_tunic|Роскошное Платье
+itm_queenpict_long_tunic_pl|Роскошное Платье
+itm_pict_richlong_tunic1|Роскошное Платье
+itm_pict_richlong_tunic1_pl|Роскошное Платье
+itm_pict_richlong_tunic2|Роскошное Платье
+itm_pict_richlong_tunic2_pl|Роскошное Платье
+itm_pict_richlong_tunic3|Роскошное Платье
+itm_pict_richlong_tunic3_pl|Роскошное Платье
+itm_pict_long_tunic1|Платье
+itm_pict_long_tunic1_pl|Платье
+itm_pict_long_tunic2|Платье
+itm_pict_long_tunic2_pl|Платье
+itm_pict_long_tunic3|Платье
+itm_pict_long_tunic3_pl|Платье
+itm_pict_long_tunic4|Платье
+itm_pict_long_tunic4_pl|Платье
+itm_pict_long_tunic5|Платье
+itm_pict_long_tunic5_pl|Платье
+itm_pict_long_tunic6|Платье
+itm_pict_long_tunic6_pl|Платье
+itm_woman_norse1|Норманнское Платье
+itm_woman_norse1_pl|Норманнское Платье
+itm_woman_norse2|Норманнское Платье
+itm_woman_norse2_pl|Норманнское Платье
+itm_woman_norse3|Норманнское Платье
+itm_woman_norse3_pl|Норманнское Платье
+itm_woman_norse4|Норманнское Платье
+itm_woman_norse4_pl|Норманнское Платье
+itm_woman_norse5|Норманнское Платье
+itm_woman_norse5_pl|Норманнское Платье
+itm_woman_norse6|Норманнское Платье
+itm_woman_norse6_pl|Норманнское Платье
+itm_richwoman_norse1|Роскошное Норманнское Платье
+itm_richwoman_norse1_pl|Роскошное Норманнское Платье
+itm_richwoman_norse2|Роскошное Норманнское Платье
+itm_richwoman_norse2_pl|Роскошное Норманнское Платье
+itm_richwoman_norse3|Роскошное Норманнское Платье
+itm_richwoman_norse3_pl|Роскошное Норманнское Платье
+itm_richwoman_norse4|Роскошное Норманнское Платье
+itm_richwoman_norse4_pl|Роскошное Норманнское Платье
+itm_btunic_1woman|Туника
+itm_btunic_1woman_pl|Туника
+itm_btunic_2woman|Английский Легкий Доспех
+itm_btunic_2woman_pl|Английский Легкий Доспех
+itm_btunic_3woman|Фризская Туника
+itm_btunic_3woman_pl|Фризская Туника
+itm_btunic_4woman|Фризская Туника
+itm_btunic_4woman_pl|Фризская Туника
+itm_btunic_5woman|Фризская Туника
+itm_btunic_5woman_pl|Фризская Туника
+itm_btunic_6woman|Фризская Туника
+itm_btunic_6woman_pl|Фризская Туника
+itm_btunic_7woman|Простая Туника
+itm_btunic_7woman_pl|Простая Туника
+itm_btunic_8woman|Простая Туника
+itm_btunic_8woman_pl|Простая Туника
+itm_ptunic_1woman|Простая Туника
+itm_ptunic_1woman_pl|Простая Туника
+itm_ptunic_2woman|Простая Туника
+itm_ptunic_2woman_pl|Простая Туника
+itm_ptunic_3woman|Простая Туника
+itm_ptunic_3woman_pl|Простая Туника
+itm_ptunic_4woman|Простая Туника
+itm_ptunic_4woman_pl|Простая Туника
+itm_ptunic_5woman|Простая Туника
+itm_ptunic_5woman_pl|Простая Туника
+itm_ptunic_6woman|Простая Туника
+itm_ptunic_6woman_pl|Простая Туника
+itm_ptunic_7woman|Простая Туника
+itm_ptunic_7woman_pl|Простая Туника
+itm_gaeltunic_1woman|Фризская Туника
+itm_gaeltunic_1woman_pl|Фризская Туника
+itm_gaeltunic_2woman|Фризская Туника
+itm_gaeltunic_2woman_pl|Фризская Туника
+itm_gaeltunic_3woman|Фризская Туника
+itm_gaeltunic_3woman_pl|Фризская Туника
+itm_gaeltunic_4woman|Фризский Легкий Доспех
+itm_gaeltunic_4woman_pl|Фризский Легкий Доспех
+itm_gaeltunic_5woman|Фризская Туника
+itm_gaeltunic_5woman_pl|Фризская Туника
+itm_gaeltunic_6woman|Фризская Туника
+itm_gaeltunic_6woman_pl|Фризская Туника
+itm_gaeltunic_7woman|Фризская Туника
+itm_gaeltunic_7woman_pl|Фризская Туника
+itm_gaeltunic_8woman|Фризская Туника
+itm_gaeltunic_8woman_pl|Фризская Туника
+itm_britontunic_1woman|Медвежья Шкура
+itm_britontunic_1woman_pl|Медвежья Шкура
+itm_britontunic_2woman|Медвежья Шкура
+itm_britontunic_2woman_pl|Медвежья Шкура
+itm_britontunic_3woman|Медвежья Шкура
+itm_britontunic_3woman_pl|Медвежья Шкура
+itm_britontunic_4woman|Медвежья Шкура
+itm_britontunic_4woman_pl|Медвежья Шкура
+itm_britontunic_5woman|Волчья Шкура
+itm_britontunic_5woman_pl|Волчья Шкура
+itm_britontunic_6woman|Волчья Шкура
+itm_britontunic_6woman_pl|Волчья Шкура
+itm_britontunic_7woman|Волчья Шкура
+itm_britontunic_7woman_pl|Волчья Шкура
+itm_britontunic_8woman|Волчья Шкура
+itm_britontunic_8woman_pl|Волчья Шкура
+itm_veil_a|Вуаль
+itm_veil_a_pl|Вуаль
+itm_veil_b|Вуаль
+itm_veil_b_pl|Вуаль
+itm_veil_c|Вуаль
+itm_veil_c_pl|Вуаль
+itm_veil_d|Капюшон
+itm_veil_d_pl|Капюшон
+itm_veil_e|Капюшон
+itm_veil_e_pl|Капюшон
+itm_veil_f|Вуаль
+itm_veil_f_pl|Вуаль
+itm_elite_veil_1|Роскошная Вуаль
+itm_elite_veil_1_pl|Роскошная Вуаль
+itm_elite_veil_2|Роскошная Вуаль
+itm_elite_veil_2_pl|Роскошная Вуаль
+itm_elite_veil_3|Роскошная Вуаль
+itm_elite_veil_3_pl|Роскошная Вуаль
+itm_elite_veil_4|Роскошная Вуаль
+itm_elite_veil_4_pl|Роскошная Вуаль
+itm_common_veil_a|Вуаль
+itm_common_veil_a_pl|Вуаль
+itm_common_veil_b|Вуаль
+itm_common_veil_b_pl|Вуаль
+itm_common_veil_c|Вуаль
+itm_common_veil_c_pl|Вуаль
+itm_common_veil_d|Вуаль
+itm_common_veil_d_pl|Вуаль
+itm_common_veil_e|Вуаль
+itm_common_veil_e_pl|Вуаль
+itm_common_veil_f|Вуаль
+itm_common_veil_f_pl|Вуаль
+itm_elite_veil_5|Роскошная Вуаль
+itm_elite_veil_5_pl|Роскошная Вуаль
+itm_elite_veil_6|Роскошная Вуаль
+itm_elite_veil_6_pl|Роскошная Вуаль
+itm_elite_veil_7|Роскошная Вуаль
+itm_elite_veil_7_pl|Роскошная Вуаль
+itm_elite_veil_8|Роскошная Вуаль
+itm_elite_veil_8_pl|Роскошная Вуаль
+itm_gambeson1|Саксонская Стёганка
+itm_gambeson1_pl|Саксонская Стёганка
+itm_gambeson2|Саксонская Стёганка
+itm_gambeson2_pl|Саксонская Стёганка
+itm_gambeson3|Саксонская Стёганка
+itm_gambeson3_pl|Саксонская Стёганка
+itm_gambeson4|Норманнская Стёганка
+itm_gambeson4_pl|Норманнская Стёганка
+itm_gambeson5|Норманнская Стёганка
+itm_gambeson5_pl|Норманнская Стёганка
+itm_gambeson6|Саксонская Стёганка
+itm_gambeson6_pl|Саксонская Стёганка
+itm_gambeson7|Саксонская Стёганка
+itm_gambeson7_pl|Саксонская Стёганка
+itm_gambeson8|Норманнская Стёганка
+itm_gambeson8_pl|Норманнская Стёганка
+itm_gambeson9|Саксонская Стёганка
+itm_gambeson9_pl|Саксонская Стёганка
+itm_gambeson10|Английская Стёганка
+itm_gambeson10_pl|Английская Стёганка
+itm_gambeson11|Английская Стёганка
+itm_gambeson11_pl|Английская Стёганка
+itm_gambeson12|Бриттская Стёганка
+itm_gambeson12_pl|Бриттская Стёганка
+itm_gambeson13|Норманнская Стёганка
+itm_gambeson13_pl|Норманнская Стёганка
+itm_gambeson14|Норманнская Стёганка
+itm_gambeson14_pl|Норманнская Стёганка
+itm_gambeson15|Саксонская Длинная Стёганка
+itm_gambeson15_pl|Саксонская Длинная Стёганка
+itm_gambeson16|Бриттская Стёганка
+itm_gambeson16_pl|Бриттская Стёганка
+itm_gambeson17|Английская Стёганка
+itm_gambeson17_pl|Английская Стёганка
+itm_gambeson18|Саксонская Длинная Стёганка
+itm_gambeson18_pl|Саксонская Длинная Стёганка
+itm_gambeson19|Фризская Стёганка
+itm_gambeson19_pl|Фризская Стёганка
+itm_gambeson20|Фризская Стёганка
+itm_gambeson20_pl|Фризская Стёганка
+itm_gambeson21|Простая Стёганка
+itm_gambeson21_pl|Простая Стёганка
+itm_gambeson22|Простая Стёганка
+itm_gambeson22_pl|Простая Стёганка
+itm_gambeson23|Простая Стёганка
+itm_gambeson23_pl|Простая Стёганка
+itm_gambeson24|Простая Стёганка
+itm_gambeson24_pl|Простая Стёганка
+itm_gambeson1gael|Шотландская Стёганка
+itm_gambeson1gael_pl|Шотландская Стёганка
+itm_gambeson2gael|Шотландская Стёганка
+itm_gambeson2gael_pl|Шотландская Стёганка
+itm_gambeson3gael|Шотландская Стёганка
+itm_gambeson3gael_pl|Шотландская Стёганка
+itm_gambeson4gael|Шотландская Стёганка
+itm_gambeson4gael_pl|Шотландская Стёганка
+itm_gambeson5gael|Шотландская Стёганка
+itm_gambeson5gael_pl|Шотландская Стёганка
+itm_gambeson6gael|Шотландская Стёганка
+itm_gambeson6gael_pl|Шотландская Стёганка
+itm_gambeson7gael|Шотландская Стёганка
+itm_gambeson7gael_pl|Шотландская Стёганка
+itm_gambeson8gael|Шотландская Стёганка
+itm_gambeson8gael_pl|Шотландская Стёганка
+itm_gambeson9gael|Ирландская Стёганка
+itm_gambeson9gael_pl|Ирландская Стёганка
+itm_gambeson10gael|Ирландская Стёганка
+itm_gambeson10gael_pl|Ирландская Стёганка
+itm_gambeson11gael|Ирландская Стёганка
+itm_gambeson11gael_pl|Ирландская Стёганка
+itm_gambeson12gael|Ирландская Стёганка
+itm_gambeson12gael_pl|Ирландская Стёганка
+itm_gambeson13gael|Ирландская Стёганка
+itm_gambeson13gael_pl|Ирландская Стёганка
+itm_gambeson14gael|Ирландская Стёганка
+itm_gambeson14gael_pl|Ирландская Стёганка
+itm_gambeson15gael|Ирландская Стёганка
+itm_gambeson15gael_pl|Ирландская Стёганка
+itm_gambeson16gael|Ирландская Стёганка
+itm_gambeson16gael_pl|Ирландская Стёганка
+itm_gambeson1cloak|Шотландская Стёганка
+itm_gambeson1cloak_pl|Шотландская Стёганка
+itm_gambeson2cloak|Шотландская Стёганка
+itm_gambeson2cloak_pl|Шотландская Стёганка
+itm_gambeson5cloak|Ирландская Стёганка
+itm_gambeson5cloak_pl|Ирландская Стёганка
+itm_gambeson6cloak|Ирландская Стёганка
+itm_gambeson6cloak_pl|Ирландская Стёганка
+itm_gambeson3cloak|Фризская Стёганка
+itm_gambeson3cloak_pl|Фризская Стёганка
+itm_gambeson4cloak|Фризская Стёганка
+itm_gambeson4cloak_pl|Фризская Стёганка
+itm_gambeson25|Норманнская Длинная Стёганка
+itm_gambeson25_pl|Норманнская Длинная Стёганка
+itm_gambeson26|Английская Длинная Стёганка
+itm_gambeson26_pl|Английская Длинная Стёганка
+itm_gambeson27|Норманнская Длинная Стёганка
+itm_gambeson27_pl|Норманнская Длинная Стёганка
+itm_gambeson28|Английская Стёганка
+itm_gambeson28_pl|Английская Стёганка
+itm_gambeson29|Норманнская Длинная Стёганка
+itm_gambeson29_pl|Норманнская Длинная Стёганка
+itm_gambeson30|Простая Длинная Стёганка
+itm_gambeson30_pl|Простая Длинная Стёганка
+itm_gambeson31|Простая Длинная Стёганка
+itm_gambeson31_pl|Простая Длинная Стёганка
+itm_gambeson32|Саксонская Длинная Стёганка
+itm_gambeson32_pl|Саксонская Длинная Стёганка
+itm_gambeson33|Фризская Длинная Стёганка
+itm_gambeson33_pl|Фризская Длинная Стёганка
+itm_gambeson34|Английская Длинная Стёганка
+itm_gambeson34_pl|Английская Длинная Стёганка
+itm_gambeson35|Норманнская Стёганка
+itm_gambeson35_pl|Норманнская Стёганка
+itm_gambeson36|Бриттская Длинная Стёганка
+itm_gambeson36_pl|Бриттская Длинная Стёганка
+itm_gambeson37|Бриттская Стёганка
+itm_gambeson37_pl|Бриттская Стёганка
+itm_gambeson38|Бриттская Длинная Стёганка
+itm_gambeson38_pl|Бриттская Длинная Стёганка
+itm_gambeson39|Английская Длинная Стёганка
+itm_gambeson39_pl|Английская Длинная Стёганка
+itm_gambeson40|Бриттская Длинная Стёганка
+itm_gambeson40_pl|Бриттская Длинная Стёганка
+itm_gambeson41|Бриттская Длинная Стёганка
+itm_gambeson41_pl|Бриттская Длинная Стёганка
+itm_gambeson42|Бриттская Стёганка
+itm_gambeson42_pl|Бриттская Стёганка
+itm_gambeson43|Норманнская Длинная Стёганка
+itm_gambeson43_pl|Норманнская Длинная Стёганка
+itm_gambeson44|Фризская Длинная Стёганка
+itm_gambeson44_pl|Фризская Длинная Стёганка
+itm_gambeson45|Английская Стёганка
+itm_gambeson45_pl|Английская Стёганка
+itm_gambeson46|Фризская Длинная Стёганка
+itm_gambeson46_pl|Фризская Длинная Стёганка
+itm_gambeson47|Простая Длинная Стёганка
+itm_gambeson47_pl|Простая Длинная Стёганка
+itm_gambeson48|Простая Длинная Стёганка
+itm_gambeson48_pl|Простая Длинная Стёганка
+itm_mail_shirt|Фризская Кольчуга
+itm_mail_shirt_pl|Фризская Кольчуга
+itm_mail_shirt_1|Простая Кольчуга
+itm_mail_shirt_1_pl|Простая Кольчуга
+itm_mail_shirt_2|Шотландская Лорика
+itm_mail_shirt_2_pl|Шотландская Лорика
+itm_mail_shirt_3|Простая Кольчуга
+itm_mail_shirt_3_pl|Простая Кольчуга
+itm_mail_shirt_6|Шотландская Лорика
+itm_mail_shirt_6_pl|Шотландская Лорика
+itm_mail_shirt_7|Шотландская Лорика
+itm_mail_shirt_7_pl|Шотландская Лорика
+itm_mail_shirt_8|Шотландская Лорика с Накидкой
+itm_mail_shirt_8_pl|Шотландская Лорика с Накидкой
+itm_mail_shirt_9|Шотландская Лорика с Накидкой
+itm_mail_shirt_9_pl|Шотландская Лорика с Накидкой
+itm_mail_shirt_10|Элитная Бриттская Кольчуга
+itm_mail_shirt_10_pl|Элитная Бриттская Кольчуга
+itm_mail_shirt_11|Элитная Бриттская Кольчуга
+itm_mail_shirt_11_pl|Элитная Бриттская Кольчуга
+itm_mail_shirt_11_2|Фризская Кольчуга
+itm_mail_shirt_11_2_pl|Фризская Кольчуга
+itm_mail_shirt_11_3|Шотландская Лорика
+itm_mail_shirt_11_3_pl|Шотландская Лорика
+itm_mail_shirt_12|Простая Кольчуга
+itm_mail_shirt_12_pl|Простая Кольчуга
+itm_mail_shirt_13|Простая Кольчуга
+itm_mail_shirt_13_pl|Простая Кольчуга
+itm_mail_shirt_4|Фризская Кольчуга
+itm_mail_shirt_4_pl|Фризская Кольчуга
+itm_mail_shirt_5|Шотландская Лорика
+itm_mail_shirt_5_pl|Шотландская Лорика
+itm_mail_shirt_5_1|Элитная Бриттская Кольчуга
+itm_mail_shirt_5_1_pl|Элитная Бриттская Кольчуга
+itm_mail_shirt_5_2|Элитный Саксонский Хауберк
+itm_mail_shirt_5_2_pl|Элитный Саксонский Хауберк
+itm_mail_shirt_12_1|Простой Хауберк
+itm_mail_shirt_12_1_pl|Простой Хауберк
+itm_mail_shirt_12_2|Простой Хауберк
+itm_mail_shirt_12_2_pl|Простой Хауберк
+itm_mail_shirt_12_3|Простой Хауберк
+itm_mail_shirt_12_3_pl|Простой Хауберк
+itm_mail_shirt_12_4|Простой Хауберк
+itm_mail_shirt_12_4_pl|Простой Хауберк
+itm_mail_shirt_13_1|Элитный Саксонский Хауберк
+itm_mail_shirt_13_1_pl|Элитный Саксонский Хауберк
+itm_mail_shirt_13_2|Саксонский Хауберк
+itm_mail_shirt_13_2_pl|Саксонский Хауберк
+itm_mail_shirt_13_3|Саксонский Хауберк
+itm_mail_shirt_13_3_pl|Саксонский Хауберк
+itm_mail_shirt_13_4|Элитная Саксонская Лорика
+itm_mail_shirt_13_4_pl|Элитная Саксонская Лорика
+itm_byrnie|Простой Хауберк
+itm_byrnie_pl|Простой Хауберк
+itm_byrnie2|Фризская Лорика
+itm_byrnie2_pl|Фризская Лорика
+itm_byrnie3|Простой Хауберк
+itm_byrnie3_pl|Простой Хауберк
+itm_byrnie4|Бриттская Кольчуга
+itm_byrnie4_pl|Бриттская Кольчуга
+itm_byrnie5|Саксонский Хауберк
+itm_byrnie5_pl|Саксонский Хауберк
+itm_byrnie6|Бриттская Кольчуга
+itm_byrnie6_pl|Бриттская Кольчуга
+itm_byrnie7|Элитная Фризская Лорика
+itm_byrnie7_pl|Элитная Фризская Лорика
+itm_byrnie8|Элитный Фризский Хауберк
+itm_byrnie8_pl|Элитный Фризский Хауберк
+itm_byrnie9|Ирландская Лорика
+itm_byrnie9_pl|Ирландская Лорика
+itm_byrnie10|Ирландская Лорика
+itm_byrnie10_pl|Ирландская Лорика
+itm_byrnie11|Ирландская Лорика с Накидкой
+itm_byrnie11_pl|Ирландская Лорика с Накидкой
+itm_byrnie12|Ирландская Лорика с Накидкой
+itm_byrnie12_pl|Ирландская Лорика с Накидкой
+itm_byrnie13|Бриттская Кольчуга
+itm_byrnie13_pl|Бриттская Кольчуга
+itm_byrnie14|Бриттская Кольчуга
+itm_byrnie14_pl|Бриттская Кольчуга
+itm_byrnie15|Бриттская Кольчуга с Накидкой
+itm_byrnie15_pl|Бриттская Кольчуга с Накидкой
+itm_byrnie16|Норманнская Кольчуга
+itm_byrnie16_pl|Норманнская Кольчуга
+itm_byrnie17|Норманнская Кольчуга
+itm_byrnie17_pl|Норманнская Кольчуга
+itm_byrnie18|Норманнская Кольчуга
+itm_byrnie18_pl|Норманнская Кольчуга
+itm_byrnie19|Норманнская Кольчуга
+itm_byrnie19_pl|Норманнская Кольчуга
+itm_byrnie20|Фризский Хауберк
+itm_byrnie20_pl|Фризский Хауберк
+itm_byrnie21|Саксонская Лорика
+itm_byrnie21_pl|Саксонская Лорика
+itm_byrnie22|Саксонский Хауберк
+itm_byrnie22_pl|Саксонский Хауберк
+itm_byrnie23|Английский Хауберк
+itm_byrnie23_pl|Английский Хауберк
+itm_byrnie24|Английский Хауберк
+itm_byrnie24_pl|Английский Хауберк
+itm_byrnie25|Английский Хауберк
+itm_byrnie25_pl|Английский Хауберк
+itm_byrnie26|Английский Хауберк
+itm_byrnie26_pl|Английский Хауберк
+itm_byrnie27|Английский Хауберк с Накидкой
+itm_byrnie27_pl|Английский Хауберк с Накидкой
+itm_byrnie28|Английский Хауберк с Мехом
+itm_byrnie28_pl|Английский Хауберк с Мехом
+itm_byrnie29|Английский Хауберк с Накидкой
+itm_byrnie29_pl|Английский Хауберк с Накидкой
+itm_byrnie30|Английский Хауберк с Мехом
+itm_byrnie30_pl|Английский Хауберк с Мехом
+itm_byrnie31|Норманнская Кольчуга с Накидкой
+itm_byrnie31_pl|Норманнская Кольчуга с Накидкой
+itm_byrnie32|Норманнская Кольчуга
+itm_byrnie32_pl|Норманнская Кольчуга
+itm_byrnie33|Норманнская Кольчуга с Мехом
+itm_byrnie33_pl|Норманнская Кольчуга с Мехом
+itm_byrnie34|Норманнская Кольчуга с Мехом
+itm_byrnie34_pl|Норманнская Кольчуга с Мехом
+itm_byrnie35|Фризский Хауберк
+itm_byrnie35_pl|Фризский Хауберк
+itm_byrnie36|Ирландская Лорика
+itm_byrnie36_pl|Ирландская Лорика
+itm_byrnie37|Ирландская Лорика
+itm_byrnie37_pl|Ирландская Лорика
+itm_byrnie38|Ирландская Лорика
+itm_byrnie38_pl|Ирландская Лорика
+itm_orm_byrnie|Лорика Черного Змея
+itm_orm_byrnie_pl|Лорика Черного Змея
+itm_lamellar_armor|Чешуйчатая Лорика
+itm_lamellar_armor_pl|Чешуйчатая Лорика
+itm_burlap_tunic|Туника из Мешковины
+itm_burlap_tunic_pl|Туника из Мешковины
+itm_hood_01|Капюшон
+itm_hood_01_pl|Капюшон
+itm_hood_02|Капюшон
+itm_hood_02_pl|Капюшон
+itm_phrygian1|Фригийский Колпак
+itm_phrygian1_pl|Фригийский Колпак
+itm_phrygian2|Фригийский Колпак
+itm_phrygian2_pl|Фригийский Колпак
+itm_phrygian3|Фригийский Колпак
+itm_phrygian3_pl|Фригийский Колпак
+itm_phrygian4|Фригийский Колпак
+itm_phrygian4_pl|Фригийский Колпак
+itm_phrygian5|Фригийский Колпак
+itm_phrygian5_pl|Фригийский Колпак
+itm_phrygian6|Фригийский Колпак
+itm_phrygian6_pl|Фригийский Колпак
+itm_phrygian7|Хороший Фригийский Колпак
+itm_phrygian7_pl|Хороший Фригийский Колпак
+itm_phrygian8|Хороший Фригийский Колпак
+itm_phrygian8_pl|Хороший Фригийский Колпак
+itm_phrygian9|Хороший Фригийский Колпак
+itm_phrygian9_pl|Хороший Фригийский Колпак
+itm_phrygian10|Хороший Фригийский Колпак
+itm_phrygian10_pl|Хороший Фригийский Колпак
+itm_phrygian11|Хороший Фригийский Колпак
+itm_phrygian11_pl|Хороший Фригийский Колпак
+itm_phrygian12|Хороший Фригийский Колпак
+itm_phrygian12_pl|Хороший Фригийский Колпак
+itm_phrygian13|Хороший Фригийский Колпак
+itm_phrygian13_pl|Хороший Фригийский Колпак
+itm_phrygian14|Украшенный Фригийский Колпак
+itm_phrygian14_pl|Украшенный Фригийский Колпак
+itm_phrygian15|Украшенный Фригийский Колпак
+itm_phrygian15_pl|Украшенный Фригийский Колпак
+itm_phrygian16|Украшенный Фригийский Колпак
+itm_phrygian16_pl|Украшенный Фригийский Колпак
+itm_phrygian17|Украшенный Фригийский Колпак
+itm_phrygian17_pl|Украшенный Фригийский Колпак
+itm_briton_helm|Простой Шлем
+itm_briton_helm_pl|Простой Шлем
+itm_briton_helm2|Простой Шлем
+itm_briton_helm2_pl|Простой Шлем
+itm_briton_helm3|Старый Простой Шлем
+itm_briton_helm3_pl|Старый Простой Шлем
+itm_briton_helm4|Старый Простой Шлем
+itm_briton_helm4_pl|Старый Простой Шлем
+itm_briton_helm5|Простой Кожаный Шлем
+itm_briton_helm5_pl|Простой Кожаный Шлем
+itm_briton_helm6|Простой Кожаный Шлем
+itm_briton_helm6_pl|Простой Кожаный Шлем
+itm_briton_helm7|Старый Простой Кожаный Шлем
+itm_briton_helm7_pl|Старый Простой Кожаный Шлем
+itm_briton_helm8|Старый Простой Кожаный Шлем
+itm_briton_helm8_pl|Старый Простой Кожаный Шлем
+itm_briton_helm9|Искусный Шлем
+itm_briton_helm9_pl|Искусный Шлем
+itm_briton_helm10|Искусный Шлем
+itm_briton_helm10_pl|Искусный Шлем
+itm_briton_helm11|Старый Искусный Шлем
+itm_briton_helm11_pl|Старый Искусный Шлем
+itm_briton_helm12|Старый Искусный Шлем
+itm_briton_helm12_pl|Старый Искусный Шлем
+itm_briton_helm13|Искусный Шлем
+itm_briton_helm13_pl|Искусный Шлем
+itm_briton_helm14|Искусный Шлем
+itm_briton_helm14_pl|Искусный Шлем
+itm_briton_helm15|Искусный Шлем
+itm_briton_helm15_pl|Искусный Шлем
+itm_briton_helm16|Старый Искусный Шлем
+itm_briton_helm16_pl|Старый Искусный Шлем
+itm_briton_helm17|Старый Искусный Шлем
+itm_briton_helm17_pl|Старый Искусный Шлем
+itm_briton_helm18|Старый Искусный Шлем
+itm_briton_helm18_pl|Старый Искусный Шлем
+itm_briton_helm19|Шлем с Наносником
+itm_briton_helm19_pl|Шлем с Наносником
+itm_briton_helm20|Шлем с Наносником
+itm_briton_helm20_pl|Шлем с Наносником
+itm_briton_helm21|Шлем с Наносником
+itm_briton_helm21_pl|Шлем с Наносником
+itm_briton_helm22|Старый Шлем с Наносником
+itm_briton_helm22_pl|Старый Шлем с Наносником
+itm_briton_helm23|Старый Шлем с Наносником
+itm_briton_helm23_pl|Старый Шлем с Наносником
+itm_briton_helm24|Старый Шлем с Наносником
+itm_briton_helm24_pl|Старый Шлем с Наносником
+itm_briton_helm25|Кожаный Шлем
+itm_briton_helm25_pl|Кожаный Шлем
+itm_briton_helm26|Кожаный Шлем
+itm_briton_helm26_pl|Кожаный Шлем
+itm_briton_helm27|Кожаный Шлем
+itm_briton_helm27_pl|Кожаный Шлем
+itm_briton_helm28|Старый Кожаный Шлем
+itm_briton_helm28_pl|Старый Кожаный Шлем
+itm_briton_helm29|Старый Кожаный Шлем
+itm_briton_helm29_pl|Старый Кожаный Шлем
+itm_briton_helm30|Старый Кожаный Шлем
+itm_briton_helm30_pl|Старый Кожаный Шлем
+itm_briton_helm31|Кольчужный Шлем
+itm_briton_helm31_pl|Кольчужный Шлем
+itm_briton_helm32|Кольчужный Шлем
+itm_briton_helm32_pl|Кольчужный Шлем
+itm_briton_helm33|Кольчужный Шлем
+itm_briton_helm33_pl|Кольчужный Шлем
+itm_briton_helm34|Кольчужный Шлем
+itm_briton_helm34_pl|Кольчужный Шлем
+itm_briton_helm35|Искусный Шлем
+itm_briton_helm35_pl|Искусный Шлем
+itm_briton_helm36|Искусный Шлем
+itm_briton_helm36_pl|Искусный Шлем
+itm_briton_helm37|Искусный Шлем
+itm_briton_helm37_pl|Искусный Шлем
+itm_briton_helm38|Старый Искусный Шлем
+itm_briton_helm38_pl|Старый Искусный Шлем
+itm_briton_helm39|Старый Искусный Шлем
+itm_briton_helm39_pl|Старый Искусный Шлем
+itm_briton_helm40|Старый Искусный Шлем
+itm_briton_helm40_pl|Старый Искусный Шлем
+itm_spangenhelm_1|Простой Шлем
+itm_spangenhelm_1_pl|Простой Шлем
+itm_spangenhelm_2|Простой Шлем
+itm_spangenhelm_2_pl|Простой Шлем
+itm_spangenhelm_3|Старый Простой Шлем
+itm_spangenhelm_3_pl|Старый Простой Шлем
+itm_spangenhelm_4|Старый Простой Шлем
+itm_spangenhelm_4_pl|Старый Простой Шлем
+itm_spangenhelm_5|Простой Кольчужный Шлем
+itm_spangenhelm_5_pl|Простой Кольчужный Шлем
+itm_spangenhelm_6|Простой Кольчужный Шлем
+itm_spangenhelm_6_pl|Простой Кольчужный Шлем
+itm_spangenhelm_7|Старый Простой Кожаный Шлем
+itm_spangenhelm_7_pl|Старый Простой Кожаный Шлем
+itm_spangenhelm_8|Старый Англосаксонский Шлем
+itm_spangenhelm_8_pl|Старый Англосаксонский Шлем
+itm_spangenhelm_9|Искусный Шлем
+itm_spangenhelm_9_pl|Искусный Шлем
+itm_spangenhelm_10|Искусный Шлем
+itm_spangenhelm_10_pl|Искусный Шлем
+itm_spangenhelm_11|Старый Англосаксонский Шлем
+itm_spangenhelm_11_pl|Старый Англосаксонский Шлем
+itm_spangenhelm_12|Старый Англосаксонский Шлем
+itm_spangenhelm_12_pl|Старый Англосаксонский Шлем
+itm_spangenhelm_13|Искусный Шлем
+itm_spangenhelm_13_pl|Искусный Шлем
+itm_spangenhelm_14|Искусный Шлем
+itm_spangenhelm_14_pl|Искусный Шлем
+itm_spangenhelm_15|Искусный Шлем
+itm_spangenhelm_15_pl|Искусный Шлем
+itm_spangenhelm_16|Элитный Англосаксонский Шлем
+itm_spangenhelm_16_pl|Элитный Англосаксонский Шлем
+itm_spangenhelm_17|Элитный Англосаксонский Шлем
+itm_spangenhelm_17_pl|Элитный Англосаксонский Шлем
+itm_spangenhelm_18|Саксонский Шлем
+itm_spangenhelm_18_pl|Саксонский Шлем
+itm_spangenhelm_19|Шлем с Наносником
+itm_spangenhelm_19_pl|Шлем с Наносником
+itm_spangenhelm_20|Шлем с Наносником
+itm_spangenhelm_20_pl|Шлем с Наносником
+itm_spangenhelm_21|Шлем с Наносником
+itm_spangenhelm_21_pl|Шлем с Наносником
+itm_spangenhelm_22|Старый Шлем с Наносником
+itm_spangenhelm_22_pl|Старый Шлем с Наносником
+itm_spangenhelm_23|Старый Шлем
+itm_spangenhelm_23_pl|Старый Шлем
+itm_spangenhelm_24|Старый Шлем с Наносником
+itm_spangenhelm_24_pl|Старый Шлем с Наносником
+itm_spangenhelm_25|Кожаный Шлем
+itm_spangenhelm_25_pl|Кожаный Шлем
+itm_spangenhelm_26|Кожаный Шлем
+itm_spangenhelm_26_pl|Кожаный Шлем
+itm_spangenhelm_27|Кожаный Шлем
+itm_spangenhelm_27_pl|Кожаный Шлем
+itm_spangenhelm_28|Старый Кожаный Шлем
+itm_spangenhelm_28_pl|Старый Кожаный Шлем
+itm_spangenhelm_29|Старый Кожаный Шлем
+itm_spangenhelm_29_pl|Старый Кожаный Шлем
+itm_spangenhelm_30|Саксонский Кожаный Шлем
+itm_spangenhelm_30_pl|Саксонский Кожаный Шлем
+itm_spangenhelm_31|Кольчужный Шлем
+itm_spangenhelm_31_pl|Кольчужный Шлем
+itm_spangenhelm_32|Кольчужный Шлем
+itm_spangenhelm_32_pl|Кольчужный Шлем
+itm_spangenhelm_33|Старый Кольчужный Шлем
+itm_spangenhelm_33_pl|Старый Кольчужный Шлем
+itm_spangenhelm_34|Старый Кольчужный Шлем
+itm_spangenhelm_34_pl|Старый Кольчужный Шлем
+itm_spangenhelm_35|Искусный Шлем
+itm_spangenhelm_35_pl|Искусный Шлем
+itm_spangenhelm_36|Искусный Шлем
+itm_spangenhelm_36_pl|Искусный Шлем
+itm_spangenhelm_37|Искусный Шлем
+itm_spangenhelm_37_pl|Искусный Шлем
+itm_spangenhelm_38|Старый Искусный Шлем
+itm_spangenhelm_38_pl|Старый Искусный Шлем
+itm_spangenhelm_39|Благородный Англосаксонский Шлем
+itm_spangenhelm_39_pl|Благородный Англосаксонский Шлем
+itm_spangenhelm_40|Благородный Англосаксонский Шлем
+itm_spangenhelm_40_pl|Благородный Англосаксонский Шлем
+itm_vikingold_helm|Старый Норманнский Шлем
+itm_vikingold_helm_pl|Старый Норманнский Шлем
+itm_vikingold_helm2|Старый Норманнский Шлем
+itm_vikingold_helm2_pl|Старый Норманнский Шлем
+itm_vikingold_helm3|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm3_pl|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm4|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm4_pl|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm5|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm5_pl|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm6|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm6_pl|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm7|Старый Шлем
+itm_vikingold_helm7_pl|Старый Шлем
+itm_vikingold_helm8|Старый Шлем
+itm_vikingold_helm8_pl|Старый Шлем
+itm_vikingold_helm9|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm9_pl|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm10|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm10_pl|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm11|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm11_pl|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm12|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm12_pl|Старый Норманнский Шлем с Наносником
+itm_vikingold_helm13|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm13_pl|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm14|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm14_pl|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm15|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm15_pl|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm16|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm16_pl|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm17|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm17_pl|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm18|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm18_pl|Старый Норманнский Кольчужный Шлем
+itm_vikingold_helm19|Старый Искусный Норманнский Шлем
+itm_vikingold_helm19_pl|Старый Искусный Норманнский Шлем
+itm_vikingold_helm20|Старый Искусный Норманнский Шлем
+itm_vikingold_helm20_pl|Старый Искусный Норманнский Шлем
+itm_vikingold_helm21|Старый Искусный Норманнский Шлем
+itm_vikingold_helm21_pl|Старый Искусный Норманнский Шлем
+itm_vikingold_helm22|Старый Искусный Норманнский Шлем
+itm_vikingold_helm22_pl|Старый Искусный Норманнский Шлем
+itm_vikingold_helm23|Старый Искусный Норманнский Шлем
+itm_vikingold_helm23_pl|Старый Искусный Норманнский Шлем
+itm_vikingold_helm24|Старый Искусный Норманнский Шлем
+itm_vikingold_helm24_pl|Старый Искусный Норманнский Шлем
+itm_viking_helm|Простой Норманнский Шлем
+itm_viking_helm_pl|Простой Норманнский Шлем
+itm_viking_helm2|Простой Норманнский Шлем
+itm_viking_helm2_pl|Простой Норманнский Шлем
+itm_viking_helm3|Норманнский Шлем с Наносником
+itm_viking_helm3_pl|Норманнский Шлем с Наносником
+itm_viking_helm4|Норманнский Шлем с Наносником
+itm_viking_helm4_pl|Норманнский Шлем с Наносником
+itm_viking_helm5|Норманнский Шлем с Наносником
+itm_viking_helm5_pl|Норманнский Шлем с Наносником
+itm_viking_helm6|Норманнский Шлем с Наносником
+itm_viking_helm6_pl|Норманнский Шлем с Наносником
+itm_viking_helm7|Норманнский Шлем
+itm_viking_helm7_pl|Норманнский Шлем
+itm_viking_helm8|Норманнский Шлем
+itm_viking_helm8_pl|Норманнский Шлем
+itm_viking_helm9|Норманнский Шлем с Наносником
+itm_viking_helm9_pl|Норманнский Шлем с Наносником
+itm_viking_helm10|Норманнский Шлем с Наносником
+itm_viking_helm10_pl|Норманнский Шлем с Наносником
+itm_viking_helm11|Норманнский Шлем с Наносником
+itm_viking_helm11_pl|Норманнский Шлем с Наносником
+itm_viking_helm12|Норманнский Шлем с Наносником
+itm_viking_helm12_pl|Норманнский Шлем с Наносником
+itm_viking_helm13|Норманнский Кольчужный Шлем
+itm_viking_helm13_pl|Норманнский Кольчужный Шлем
+itm_viking_helm14|Норманнский Кольчужный Шлем
+itm_viking_helm14_pl|Норманнский Кольчужный Шлем
+itm_viking_helm15|Норманнский Шлем с Наносником
+itm_viking_helm15_pl|Норманнский Шлем с Наносником
+itm_viking_helm16|Норманнский Шлем с Наносником
+itm_viking_helm16_pl|Норманнский Шлем с Наносником
+itm_viking_helm17|Норманнский Шлем с Наносником
+itm_viking_helm17_pl|Норманнский Шлем с Наносником
+itm_viking_helm18|Норманнский Шлем с Наносником
+itm_viking_helm18_pl|Норманнский Шлем с Наносником
+itm_viking_helm19|Искусный Норманнский Шлем
+itm_viking_helm19_pl|Искусный Норманнский Шлем
+itm_viking_helm20|Искусный Норманнский Шлем
+itm_viking_helm20_pl|Искусный Норманнский Шлем
+itm_viking_helm21|Искусный Норманнский Шлем
+itm_viking_helm21_pl|Искусный Норманнский Шлем
+itm_viking_helm22|Искусный Норманнский Шлем
+itm_viking_helm22_pl|Искусный Норманнский Шлем
+itm_viking_helm23|Искусный Норманнский Шлем
+itm_viking_helm23_pl|Искусный Норманнский Шлем
+itm_viking_helm24|Искусный Норманнский Шлем
+itm_viking_helm24_pl|Искусный Норманнский Шлем
+itm_vikingold_elitehelm1|Старый Норманнский Шлем
+itm_vikingold_elitehelm1_pl|Старый Норманнский Шлем
+itm_vikingold_elitehelm2|Старый Норманнский Шлем
+itm_vikingold_elitehelm2_pl|Старый Норманнский Шлем
+itm_vikingold_elitehelm3|Старый Норманнский Шлем
+itm_vikingold_elitehelm3_pl|Старый Норманнский Шлем
+itm_vikingold_elitehelm4|Старый Норманнский Кожаный Шлем
+itm_vikingold_elitehelm4_pl|Старый Норманнский Кожаный Шлем
+itm_vikingold_elitehelm5|Старый Норманнский Кожаный Шлем
+itm_vikingold_elitehelm5_pl|Старый Норманнский Кожаный Шлем
+itm_vikingold_elitehelm6|Старый Норманнский Кольчужный Шлем
+itm_vikingold_elitehelm6_pl|Старый Норманнский Кольчужный Шлем
+itm_vikingold_elitehelm7|Старый Норманнский Кольчужный Шлем
+itm_vikingold_elitehelm7_pl|Старый Норманнский Кольчужный Шлем
+itm_vikingold_elitehelm8|Роскошный Норманнский Шлем
+itm_vikingold_elitehelm8_pl|Роскошный Норманнский Шлем
+itm_vikingold_elitehelm9|Роскошный Норманнский Шлем
+itm_vikingold_elitehelm9_pl|Роскошный Норманнский Шлем
+itm_viking_elitehelm1|Норманнский Шлем
+itm_viking_elitehelm1_pl|Норманнский Шлем
+itm_viking_elitehelm2|Норманнский Шлем
+itm_viking_elitehelm2_pl|Норманнский Шлем
+itm_viking_elitehelm3|Норманнский Кожаный Шлем
+itm_viking_elitehelm3_pl|Норманнский Кожаный Шлем
+itm_viking_elitehelm4|Норманнский Шлем
+itm_viking_elitehelm4_pl|Норманнский Шлем
+itm_viking_elitehelm5|Норманнский Кожаный Шлем
+itm_viking_elitehelm5_pl|Норманнский Кожаный Шлем
+itm_viking_elitehelm6|Норманнский Кожаный Шлем
+itm_viking_elitehelm6_pl|Норманнский Кожаный Шлем
+itm_viking_elitehelm7|Норманнский Кольчужный Шлем
+itm_viking_elitehelm7_pl|Норманнский Кольчужный Шлем
+itm_viking_elitehelm8|Норманнский Кольчужный Шлем
+itm_viking_elitehelm8_pl|Норманнский Кольчужный Шлем
+itm_viking_elitehelm9|Норманнский Кольчужный Шлем
+itm_viking_elitehelm9_pl|Норманнский Кольчужный Шлем
+itm_viking_noblehelm1|Элитный Норманнский Шлем
+itm_viking_noblehelm1_pl|Элитный Норманнский Шлем
+itm_viking_noblehelm2|Элитный Норманнский Кожаный Шлем
+itm_viking_noblehelm2_pl|Элитный Норманнский Кожаный Шлем
+itm_viking_noblehelm3|Элитный Норманнский Кольчужный Шлем
+itm_viking_noblehelm3_pl|Элитный Норманнский Кольчужный Шлем
+itm_angle_helmet1|Благородный Шлем
+itm_angle_helmet1_pl|Благородный Шлем
+itm_angle_helmet2|Кожаный Шлем
+itm_angle_helmet2_pl|Кожаный Шлем
+itm_angle_helmet3|Кольчужный Шлем
+itm_angle_helmet3_pl|Кольчужный Шлем
+itm_angle_helmet4|Кольчужный Шлем
+itm_angle_helmet4_pl|Кольчужный Шлем
+itm_angle_helmet5|Старый Искусный Шлем
+itm_angle_helmet5_pl|Старый Искусный Шлем
+itm_angle_helmet6|Искусный Шлем
+itm_angle_helmet6_pl|Искусный Шлем
+itm_elf_helmet|Шлем Эльфа
+itm_elf_helmet_pl|Шлем Эльфа
+itm_noble_helm_smith|Благородный Шлем
+itm_noble_helm_smith_pl|Благородный Шлем
+itm_hersir_helm|Шлем Хэрсира
+itm_hersir_helm_pl|Шлем Хэрсира
+itm_crown1|Корона
+itm_crown1_pl|Корона
+itm_sarranid_horseman_helmet|Без Шлема
+itm_sarranid_horseman_helmet_pl|Без Шлема
+itm_saco_enlacabeza|Мешок
+itm_saco_enlacabeza_pl|Мешок
+itm_wooden_stick|Деревянная Палочка
+itm_wooden_stick_pl|Деревянная Палочка
+itm_club_hard|Дубина
+itm_club_hard_pl|Дубина
+itm_club_troll|Топор Тролля
+itm_club_troll_pl|Топор Тролля
+itm_knife|Охотничий Нож
+itm_knife_pl|Охотничий Нож
+itm_knife2|Охотничий Нож
+itm_knife2_pl|Охотничий Нож
+itm_knife3|Охотничий Нож
+itm_knife3_pl|Охотничий Нож
+itm_knife4|Охотничий Нож
+itm_knife4_pl|Охотничий Нож
+itm_knife5|Охотничий Нож
+itm_knife5_pl|Охотничий Нож
+itm_longseax1|Кинжал
+itm_longseax1_pl|Кинжал
+itm_longseax2|Кинжал
+itm_longseax2_pl|Кинжал
+itm_longseax3|Кинжал
+itm_longseax3_pl|Кинжал
+itm_longseax4|Кинжал
+itm_longseax4_pl|Кинжал
+itm_longseax5|Кинжал
+itm_longseax5_pl|Кинжал
+itm_longseax6|Кинжал
+itm_longseax6_pl|Кинжал
+itm_longseax7|Кинжал
+itm_longseax7_pl|Кинжал
+itm_longseax8|Кинжал
+itm_longseax8_pl|Кинжал
+itm_longseax9|Кинжал
+itm_longseax9_pl|Кинжал
+itm_longseax10|Кинжал
+itm_longseax10_pl|Кинжал
+itm_seax_1|Нож
+itm_seax_1_pl|Нож
+itm_seax_2|Нож
+itm_seax_2_pl|Нож
+itm_seax_3|Нож
+itm_seax_3_pl|Нож
+itm_seax_4|Нож
+itm_seax_4_pl|Нож
+itm_seax_5|Нож
+itm_seax_5_pl|Нож
+itm_ragnar_seax|Кинжал Рагнара
+itm_ragnar_seax_pl|Кинжал Рагнара
+itm_elf_seax|Кинжал Эльфа
+itm_elf_seax_pl|Кинжал Эльфа
+itm_spatha|Меч
+itm_spatha_pl|Меч
+itm_spatha_2|Меч
+itm_spatha_2_pl|Меч
+itm_spatha_3|Меч
+itm_spatha_3_pl|Меч
+itm_spatha_4|Меч
+itm_spatha_4_pl|Меч
+itm_spatha_5|Меч
+itm_spatha_5_pl|Меч
+itm_spatha_6|Меч
+itm_spatha_6_pl|Меч
+itm_spatha_7|Меч
+itm_spatha_7_pl|Меч
+itm_spatha_8|Меч
+itm_spatha_8_pl|Меч
+itm_sword|Меч
+itm_sword_pl|Меч
+itm_sword_2|Меч
+itm_sword_2_pl|Меч
+itm_sword_3|Меч
+itm_sword_3_pl|Меч
+itm_sword_4|Меч
+itm_sword_4_pl|Меч
+itm_sword_5|Короткий Меч
+itm_sword_5_pl|Короткий Меч
+itm_sword_6|Короткий Меч
+itm_sword_6_pl|Короткий Меч
+itm_sword_7|Короткий Меч
+itm_sword_7_pl|Короткий Меч
+itm_sword_8|Короткий Меч
+itm_sword_8_pl|Короткий Меч
+itm_new_sword1|Короткий Меч
+itm_new_sword1_pl|Короткий Меч
+itm_new_sword2|Короткий Меч
+itm_new_sword2_pl|Короткий Меч
+itm_new_sword3|Короткий Меч
+itm_new_sword3_pl|Короткий Меч
+itm_new_sword4|Короткий Меч
+itm_new_sword4_pl|Короткий Меч
+itm_new_sword5|Короткий Меч
+itm_new_sword5_pl|Короткий Меч
+itm_new_sword6|Короткий Меч
+itm_new_sword6_pl|Короткий Меч
+itm_noble_sword|Роскошный Меч
+itm_noble_sword_pl|Роскошный Меч
+itm_noble_sword_2|Меч Ульфберта
+itm_noble_sword_2_pl|Меч Ульфберта
+itm_noble_sword_3|Фальшивый Меч Ульфберта
+itm_noble_sword_3_pl|Фальшивый Меч Ульфберта
+itm_noble_sword_4|Роскошный Меч
+itm_noble_sword_4_pl|Роскошный Меч
+itm_noble_sword_5|Меч Ульфберта
+itm_noble_sword_5_pl|Меч Ульфберта
+itm_noble_sword_6|Фальшивый Меч Ульфберта
+itm_noble_sword_6_pl|Фальшивый Меч Ульфберта
+itm_old_swordv|Бриттский Меч
+itm_old_swordv_pl|Бриттский Меч
+itm_old_swordv2|Бриттский Меч
+itm_old_swordv2_pl|Бриттский Меч
+itm_old_swordv3|Бриттский Меч
+itm_old_swordv3_pl|Бриттский Меч
+itm_old_swordv4|Бриттский Меч
+itm_old_swordv4_pl|Бриттский Меч
+itm_old_swordv5|Бриттский Меч
+itm_old_swordv5_pl|Бриттский Меч
+itm_old_swordv6|Бриттский Меч
+itm_old_swordv6_pl|Бриттский Меч
+itm_old_swordv7|Бриттский Меч
+itm_old_swordv7_pl|Бриттский Меч
+itm_noble_sword_7|Роскошный Бриттский Меч
+itm_noble_sword_7_pl|Роскошный Бриттский Меч
+itm_noble_sword_8|Роскошный Бриттский Меч
+itm_noble_sword_8_pl|Роскошный Бриттский Меч
+itm_noble_sword_9|Роскошный Бриттский Меч
+itm_noble_sword_9_pl|Роскошный Бриттский Меч
+itm_noble_sword_10|Роскошный Бриттский Меч
+itm_noble_sword_10_pl|Роскошный Бриттский Меч
+itm_noble_sword_11|Роскошный Бриттский Меч
+itm_noble_sword_11_pl|Роскошный Бриттский Меч
+itm_noble_sword_12|Роскошный Бриттский Меч
+itm_noble_sword_12_pl|Роскошный Бриттский Меч
+itm_noble_sword_13|Роскошный Бриттский Меч
+itm_noble_sword_13_pl|Роскошный Бриттский Меч
+itm_noble_swordv|Фальшивый Меч Ульфберта
+itm_noble_swordv_pl|Фальшивый Меч Ульфберта
+itm_noble_swordv3|Фальшивый Меч Ульфберта
+itm_noble_swordv3_pl|Фальшивый Меч Ульфберта
+itm_noble_swordv4|Меч Ульфберта
+itm_noble_swordv4_pl|Меч Ульфберта
+itm_noble_swordv5|Меч
+itm_noble_swordv5_pl|Меч
+itm_noble_swordv6|Меч
+itm_noble_swordv6_pl|Меч
+itm_noble_swordv7|Роскошный Меч
+itm_noble_swordv7_pl|Роскошный Меч
+itm_irish_long_sword1|Ирландский Благородный Длинный Меч
+itm_irish_long_sword1_pl|Ирландский Благородный Длинный Меч
+itm_irish_long_sword2|Ирландский Благородный Длинный Меч
+itm_irish_long_sword2_pl|Ирландский Благородный Длинный Меч
+itm_irish_long_sword3|Ирландский Длинный Меч
+itm_irish_long_sword3_pl|Ирландский Длинный Меч
+itm_irish_long_sword4|Ирландский Длинный Меч
+itm_irish_long_sword4_pl|Ирландский Длинный Меч
+itm_irish_long_sword5|Ирландский Длинный Меч
+itm_irish_long_sword5_pl|Ирландский Длинный Меч
+itm_irish_long_sword6|Ирландский Длинный Меч
+itm_irish_long_sword6_pl|Ирландский Длинный Меч
+itm_irish_long_sword7|Ирландский Длинный Меч
+itm_irish_long_sword7_pl|Ирландский Длинный Меч
+itm_irish_long_sword8|Ирландский Длинный Меч
+itm_irish_long_sword8_pl|Ирландский Длинный Меч
+itm_irish_short_sword1|Ирландский Короткий Меч
+itm_irish_short_sword1_pl|Ирландский Короткий Меч
+itm_irish_short_sword2|Ирландский Короткий Меч
+itm_irish_short_sword2_pl|Ирландский Короткий Меч
+itm_irish_short_sword3|Ирландский Короткий Меч
+itm_irish_short_sword3_pl|Ирландский Короткий Меч
+itm_championsword1|Ирландский Меч Героя
+itm_championsword1_pl|Ирландский Меч Героя
+itm_championsword2|Ирландский Меч Героя
+itm_championsword2_pl|Ирландский Меч Героя
+itm_widow_maker|Овдовитель
+itm_widow_maker_pl|Овдовитель
+itm_suttonhoosword2|Меч Короля Бандитов
+itm_suttonhoosword2_pl|Меч Короля Бандитов
+itm_siren_song|Песнь Сирен
+itm_siren_song_pl|Песнь Сирен
+itm_sword_of_war|Меч Олвира
+itm_sword_of_war_pl|Меч Олвира
+itm_sword_premium1|Над
+itm_sword_premium1_pl|Над
+itm_sword_premium2|Драгвандил
+itm_sword_premium2_pl|Драгвандил
+itm_sword_premium3|Блинубитр
+itm_sword_premium3_pl|Блинубитр
+itm_hatchet|Топор
+itm_hatchet_pl|Топор
+itm_axe|Топор
+itm_axe_pl|Топор
+itm_axe_2|Короткий Топор
+itm_axe_2_pl|Короткий Топор
+itm_hand_axe|Короткий Топор
+itm_hand_axe_pl|Короткий Топор
+itm_axe_3|Длинный Топор
+itm_axe_3_pl|Длинный Топор
+itm_axe_4|Длинный Топор
+itm_axe_4_pl|Длинный Топор
+itm_one_handed_war_axe_a|Короткая Алебарда
+itm_one_handed_war_axe_a_pl|Короткая Алебарда
+itm_one_handed_war_axe_b|Короткая Алебарда
+itm_one_handed_war_axe_b_pl|Короткая Алебарда
+itm_one_handed_war_axe_c|Короткая Алебарда
+itm_one_handed_war_axe_c_pl|Короткая Алебарда
+itm_one_handed_war_axe_d|Короткая Алебарда
+itm_one_handed_war_axe_d_pl|Короткая Алебарда
+itm_one_handed_war_axe_e|Длинная Алебарда
+itm_one_handed_war_axe_e_pl|Длинная Алебарда
+itm_one_handed_war_axe_f|Длинная Алебарда
+itm_one_handed_war_axe_f_pl|Длинная Алебарда
+itm_axe_5|Длинный Одноручный Топор
+itm_axe_5_pl|Длинный Одноручный Топор
+itm_axe_6|Одноручный Топор
+itm_axe_6_pl|Одноручный Топор
+itm_axe_7|Короткий Одноручный Топор
+itm_axe_7_pl|Короткий Одноручный Топор
+itm_axe_8|Короткий Одноручный Топор
+itm_axe_8_pl|Короткий Одноручный Топор
+itm_axe_9|Одноручный Топор
+itm_axe_9_pl|Одноручный Топор
+itm_axe_10|Большой Одноручный Топор
+itm_axe_10_pl|Большой Одноручный Топор
+itm_pictish_hatchet|Ирландский Топор
+itm_pictish_hatchet_pl|Ирландский Топор
+itm_pictish_hatchet2|Ирландский Топор
+itm_pictish_hatchet2_pl|Ирландский Топор
+itm_pictish_hatchet3|Ирландский Длинный Топор
+itm_pictish_hatchet3_pl|Ирландский Длинный Топор
+itm_pictish_hatchet4|Ирландский Длинный Топор
+itm_pictish_hatchet4_pl|Ирландский Длинный Топор
+itm_pictish_hatchet5|Пиктский Топор
+itm_pictish_hatchet5_pl|Пиктский Топор
+itm_pictish_hatchet6|Пиктский Топор
+itm_pictish_hatchet6_pl|Пиктский Топор
+itm_pictish_hatchet7|Пиктский Топор
+itm_pictish_hatchet7_pl|Пиктский Топор
+itm_pictish_hatchet8|Короткий Пиктский Топор
+itm_pictish_hatchet8_pl|Короткий Пиктский Топор
+itm_pictish_hatchet9|Большой Пиктский Топор
+itm_pictish_hatchet9_pl|Большой Пиктский Топор
+itm_pictish_hatchet10|Большой Пиктский Топор
+itm_pictish_hatchet10_pl|Большой Пиктский Топор
+itm_pictish_hatchet11|Ирландский Резак
+itm_pictish_hatchet11_pl|Ирландский Резак
+itm_pictish_hatchet12|Ирландский Резак
+itm_pictish_hatchet12_pl|Ирландский Резак
+itm_pictish_hatchet13|Короткий Ирландский Резак
+itm_pictish_hatchet13_pl|Короткий Ирландский Резак
+itm_pictish_hatchet14|Короткий Ирландский Резак
+itm_pictish_hatchet14_pl|Короткий Ирландский Резак
+itm_pictish_hatchet15|Длинный Ирландский Резак
+itm_pictish_hatchet15_pl|Длинный Ирландский Резак
+itm_pictish_hatchet16|Длинный Ирландский Резак
+itm_pictish_hatchet16_pl|Длинный Ирландский Резак
+itm_pictish_hatchet17|Благородный Ирландский Топор
+itm_pictish_hatchet17_pl|Благородный Ирландский Топор
+itm_pictish_hatchet18|Благородный Ирландский Топор
+itm_pictish_hatchet18_pl|Благородный Ирландский Топор
+itm_long_axe_b|Дровосек
+itm_long_axe_b_pl|Дровосек
+itm_frankish_axe|Франкская Алебарда
+itm_frankish_axe_pl|Франкская Алебарда
+itm_staff|Посох
+itm_staff_pl|Посох
+itm_quarter_staff|Короткий Посох
+itm_quarter_staff_pl|Короткий Посох
+itm_pitch_fork|Пиктские Вилы
+itm_pitch_fork_pl|Пиктские Вилы
+itm_battle_fork|Посох Пастуха
+itm_battle_fork_pl|Посох Пастуха
+itm_light_spear1|Легкое Копье
+itm_light_spear1_pl|Легкое Копье
+itm_light_spear2|Легкое Копье
+itm_light_spear2_pl|Легкое Копье
+itm_light_spear3|Легкое Копье
+itm_light_spear3_pl|Легкое Копье
+itm_light_spear4|Легкое Копье
+itm_light_spear4_pl|Легкое Копье
+itm_war_spear1|Боевое Копье
+itm_war_spear1_pl|Боевое Копье
+itm_war_spear2|Боевое Копье
+itm_war_spear2_pl|Боевое Копье
+itm_war_spear3|Боевое Копье
+itm_war_spear3_pl|Боевое Копье
+itm_heavy_spear1|Тяжелое Копье
+itm_heavy_spear1_pl|Тяжелое Копье
+itm_heavy_spear2|Тяжелое Копье
+itm_heavy_spear2_pl|Тяжелое Копье
+itm_heavy_spear3|Тяжелое Копье
+itm_heavy_spear3_pl|Тяжелое Копье
+itm_long_light_spear1|Легкое Длинное Копье
+itm_long_light_spear1_pl|Легкое Длинное Копье
+itm_long_light_spear2|Легкое Длинное Копье
+itm_long_light_spear2_pl|Легкое Длинное Копье
+itm_long_war_spear1|Длинное Боевое Копье
+itm_long_war_spear1_pl|Длинное Боевое Копье
+itm_long_war_spear2|Длинное Боевое Копье
+itm_long_war_spear2_pl|Длинное Боевое Копье
+itm_long_heavy_spear1|Тяжелое Длинное Копье
+itm_long_heavy_spear1_pl|Тяжелое Длинное Копье
+itm_long_heavy_spear2|Тяжелое Длинное Копье
+itm_long_heavy_spear2_pl|Тяжелое Длинное Копье
+itm_new_mace|Рей
+itm_new_mace_pl|Рей
+itm_premium_spear1|Гунгнир
+itm_premium_spear1_pl|Гунгнир
+itm_standard|Боевое Знамя
+itm_standard_pl|Боевое Знамя
+itm_standard_dragon|Знамя Дракона
+itm_standard_dragon_pl|Знамя Дракона
+itm_horn|Горн
+itm_horn_pl|Горн
+itm_horn_multi|Горн
+itm_horn_multi_pl|Горн
+itm_wooden_shield|Круглый Щит
+itm_wooden_shield_pl|Круглый Щит
+itm_viking_shield_round_06|Круглый Щит
+itm_viking_shield_round_06_pl|Круглый Щит
+itm_viking_shield_round_07|Круглый Щит
+itm_viking_shield_round_07_pl|Круглый Щит
+itm_viking_shield_round_10|Круглый Щит
+itm_viking_shield_round_10_pl|Круглый Щит
+itm_viking_shield_round_11|Круглый Щит
+itm_viking_shield_round_11_pl|Круглый Щит
+itm_viking_shield_round_08|Круглый Щит
+itm_viking_shield_round_08_pl|Круглый Щит
+itm_viking_shield_round_09|Круглый Щит
+itm_viking_shield_round_09_pl|Круглый Щит
+itm_viking_shield_round_12|Круглый Щит
+itm_viking_shield_round_12_pl|Круглый Щит
+itm_viking_shield_round_13|Круглый Щит
+itm_viking_shield_round_13_pl|Круглый Щит
+itm_viking_shield_round_01|Сыромятный Щит
+itm_viking_shield_round_01_pl|Сыромятный Щит
+itm_viking_shield_round_02|Сыромятный Щит
+itm_viking_shield_round_02_pl|Сыромятный Щит
+itm_viking_shield_round_03|Сыромятный Щит
+itm_viking_shield_round_03_pl|Сыромятный Щит
+itm_viking_shield_round_14|Сыромятный Щит
+itm_viking_shield_round_14_pl|Сыромятный Щит
+itm_viking_shield_round_15|Сыромятный Щит
+itm_viking_shield_round_15_pl|Сыромятный Щит
+itm_viking_shield_round_04|Сыромятный Круглый Щит
+itm_viking_shield_round_04_pl|Сыромятный Круглый Щит
+itm_viking_shield_round_05|Сыромятный Круглый Щит
+itm_viking_shield_round_05_pl|Сыромятный Круглый Щит
+itm_viking_shield_round_16|Сыромятный Круглый Щит
+itm_viking_shield_round_16_pl|Сыромятный Круглый Щит
+itm_viking_shield_round_17|Сыромятный Круглый Щит
+itm_viking_shield_round_17_pl|Сыромятный Круглый Щит
+itm_viking_shield_round_18|Сыромятный Круглый Щит
+itm_viking_shield_round_18_pl|Сыромятный Круглый Щит
+itm_viking_shield_round_19|Сыромятный Круглый Щит
+itm_viking_shield_round_19_pl|Сыромятный Круглый Щит
+itm_viking_shield_round_20|Сыромятный Круглый Щит
+itm_viking_shield_round_20_pl|Сыромятный Круглый Щит
+itm_viking_shield_round_21|Сыромятный Круглый Щит
+itm_viking_shield_round_21_pl|Сыромятный Круглый Щит
+itm_shield_1|Выпуклый Щит
+itm_shield_1_pl|Выпуклый Щит
+itm_shield_2|Выпуклый Щит
+itm_shield_2_pl|Выпуклый Щит
+itm_shield_3|Выпуклый Щит
+itm_shield_3_pl|Выпуклый Щит
+itm_shield_4|Выпуклый Щит
+itm_shield_4_pl|Выпуклый Щит
+itm_shield_5|Выпуклый Щит
+itm_shield_5_pl|Выпуклый Щит
+itm_shield_6|Выпуклый Щит
+itm_shield_6_pl|Выпуклый Щит
+itm_shield_6_2|Выпуклый Щит
+itm_shield_6_2_pl|Выпуклый Щит
+itm_shield_7|Щит Берсерка
+itm_shield_7_pl|Щит Берсерка
+itm_shield_8|Щит Берсерка
+itm_shield_8_pl|Щит Берсерка
+itm_shield_9|Щит Берсерка
+itm_shield_9_pl|Щит Берсерка
+itm_shield_10|Круглый Щит
+itm_shield_10_pl|Круглый Щит
+itm_shield_11|Сыромятный Щит
+itm_shield_11_pl|Сыромятный Щит
+itm_shield_12|Шведский Щит
+itm_shield_12_pl|Шведский Щит
+itm_shield_13|Круглый Щит
+itm_shield_13_pl|Круглый Щит
+itm_shield_14|Круглый Щит
+itm_shield_14_pl|Круглый Щит
+itm_shield_15|Сыромятный Щит
+itm_shield_15_pl|Сыромятный Щит
+itm_shield_16|Сыромятный Щит
+itm_shield_16_pl|Сыромятный Щит
+itm_shield_17|Круглый Щит
+itm_shield_17_pl|Круглый Щит
+itm_shield_18|Круглый Щит
+itm_shield_18_pl|Круглый Щит
+itm_shield_19|Датский Щит
+itm_shield_19_pl|Датский Щит
+itm_shield_20|Норманнский Щит
+itm_shield_20_pl|Норманнский Щит
+itm_shield_21|Круглый Щит
+itm_shield_21_pl|Круглый Щит
+itm_gael_bigroundshield_01|Ирландский Круглый Щит
+itm_gael_bigroundshield_01_pl|Ирландский Круглый Щит
+itm_gael_bigroundshield_02|Ирландский Круглый Щит
+itm_gael_bigroundshield_02_pl|Ирландский Круглый Щит
+itm_gael_bigroundshield_03|Ирландский Круглый Щит
+itm_gael_bigroundshield_03_pl|Ирландский Круглый Щит
+itm_gael_bigroundshield_04|Ирландский Круглый Щит
+itm_gael_bigroundshield_04_pl|Ирландский Круглый Щит
+itm_gael_bigroundshield_05|Ирландский Круглый Щит
+itm_gael_bigroundshield_05_pl|Ирландский Круглый Щит
+itm_gael_bigroundshield_06|Ирландский Круглый Щит
+itm_gael_bigroundshield_06_pl|Ирландский Круглый Щит
+itm_gael_bigroundshield_07|Ирландский Круглый Щит
+itm_gael_bigroundshield_07_pl|Ирландский Круглый Щит
+itm_elf_shield|Щит Эльфа
+itm_elf_shield_pl|Щит Эльфа
+itm_tab_shield_round_c|Окрашенный Выпуклый Щит
+itm_tab_shield_round_c_pl|Окрашенный Выпуклый Щит
+itm_tab_shield_round_01_device|Окрашенный Круглый Щит
+itm_tab_shield_round_01_device_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_01_nodevice|Окрашенный Круглый Щит
+itm_tab_shield_round_01_nodevice_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_02_device|Окрашенный Круглый Щит
+itm_tab_shield_round_02_device_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_02_nodevice|Окрашенный Круглый Щит
+itm_tab_shield_round_02_nodevice_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_03_device|Окрашенный Круглый Щит
+itm_tab_shield_round_03_device_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_03_nodevice|Окрашенный Круглый Щит
+itm_tab_shield_round_03_nodevice_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_04_device|Окрашенный Круглый Щит
+itm_tab_shield_round_04_device_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_04_nodevice|Окрашенный Круглый Щит
+itm_tab_shield_round_04_nodevice_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_05_device|Окрашенный Выпуклый Щит
+itm_tab_shield_round_05_device_pl|Окрашенный Выпуклый Щит
+itm_tab_shield_round_05_nodevice|Окрашенный Выпуклый Щит
+itm_tab_shield_round_05_nodevice_pl|Окрашенный Выпуклый Щит
+itm_tab_shield_round_06_device|Окрашенный Выпуклый Щит
+itm_tab_shield_round_06_device_pl|Окрашенный Выпуклый Щит
+itm_tab_shield_round_06_nodevice|Окрашенный Выпуклый Щит
+itm_tab_shield_round_06_nodevice_pl|Окрашенный Выпуклый Щит
+itm_tab_shield_round_07_device|Окрашенный Круглый Щит
+itm_tab_shield_round_07_device_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_07_nodevice|Окрашенный Круглый Щит
+itm_tab_shield_round_07_nodevice_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_08_device|Окрашенный Выпуклый Щит
+itm_tab_shield_round_08_device_pl|Окрашенный Выпуклый Щит
+itm_tab_shield_round_08_nodevice|Окрашенный Выпуклый Щит
+itm_tab_shield_round_08_nodevice_pl|Окрашенный Выпуклый Щит
+itm_tab_shield_round_09_device|Окрашенный Круглый Щит
+itm_tab_shield_round_09_device_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_09_nodevice|Окрашенный Круглый Щит
+itm_tab_shield_round_09_nodevice_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_10_device|Окрашенный Выпуклый Щит
+itm_tab_shield_round_10_device_pl|Окрашенный Выпуклый Щит
+itm_tab_shield_round_10_nodevice|Окрашенный Выпуклый Щит
+itm_tab_shield_round_10_nodevice_pl|Окрашенный Выпуклый Щит
+itm_tab_shield_round_11_device|Окрашенный Выпуклый Щит
+itm_tab_shield_round_11_device_pl|Окрашенный Выпуклый Щит
+itm_tab_shield_round_11_nodevice|Окрашенный Выпуклый Щит
+itm_tab_shield_round_11_nodevice_pl|Окрашенный Выпуклый Щит
+itm_tab_shield_round_12_device|Окрашенный Круглый Щит
+itm_tab_shield_round_12_device_pl|Окрашенный Круглый Щит
+itm_tab_shield_round_12_nodevice|Окрашенный Круглый Щит
+itm_tab_shield_round_12_nodevice_pl|Окрашенный Круглый Щит
+itm_tab_shield_small_round_c|Маленький Круглый Щит
+itm_tab_shield_small_round_c_pl|Маленький Круглый Щит
+itm_small_roundsh1|Маленький Круглый Щит
+itm_small_roundsh1_pl|Маленький Круглый Щит
+itm_small_roundsh2|Маленький Круглый Щит
+itm_small_roundsh2_pl|Маленький Круглый Щит
+itm_small_roundsh3|Маленький Круглый Щит
+itm_small_roundsh3_pl|Маленький Круглый Щит
+itm_small_roundsh4|Маленький Круглый Щит
+itm_small_roundsh4_pl|Маленький Круглый Щит
+itm_small_roundsh5|Маленький Круглый Щит
+itm_small_roundsh5_pl|Маленький Круглый Щит
+itm_small_roundsh6|Маленький Круглый Щит
+itm_small_roundsh6_pl|Маленький Круглый Щит
+itm_h_shield1|Н-образный Щит
+itm_h_shield1_pl|Н-образный Щит
+itm_h_shield2|Н-образный Щит
+itm_h_shield2_pl|Н-образный Щит
+itm_h_shield3|Н-образный Щит
+itm_h_shield3_pl|Н-образный Щит
+itm_h_shield4|Н-образный Щит
+itm_h_shield4_pl|Н-образный Щит
+itm_h_shield5|Н-образный Щит
+itm_h_shield5_pl|Н-образный Щит
+itm_h_shield6|Н-образный Щит
+itm_h_shield6_pl|Н-образный Щит
+itm_squaresh_1|Прямоугольный Щит
+itm_squaresh_1_pl|Прямоугольный Щит
+itm_squaresh_2|Прямоугольный Щит
+itm_squaresh_2_pl|Прямоугольный Щит
+itm_squaresh_3|Прямоугольный Щит
+itm_squaresh_3_pl|Прямоугольный Щит
+itm_squaresh_4|Прямоугольный Щит
+itm_squaresh_4_pl|Прямоугольный Щит
+itm_squaresh_5|Прямоугольный Щит
+itm_squaresh_5_pl|Прямоугольный Щит
+itm_squaresh_6|Прямоугольный Щит
+itm_squaresh_6_pl|Прямоугольный Щит
+itm_darts|Простые Метательные Копья
+itm_darts_pl|Простые Метательные Копья
+itm_darts_melee|Простые Метательные Копья
+itm_darts_melee_pl|Простые Метательные Копья
+itm_javelin|Метательные Копья
+itm_javelin_pl|Метательные Копья
+itm_javelin_melee|Метательное Копье
+itm_javelin_melee_pl|Метательное Копье
+itm_javelin_skirmishes|Метательные Копья
+itm_javelin_skirmishes_pl|Метательные Копья
+itm_javelin_skirmishes_melee|Метательное Копье
+itm_javelin_skirmishes_melee_pl|Метательное Копье
+itm_javelin_skirmishesel|Тяжелые Метательные Копья
+itm_javelin_skirmishesel_pl|Тяжелые Метательные Копья
+itm_javelin_skirmishesel_melee|Тяжелое Метательное Копье
+itm_javelin_skirmishesel_melee_pl|Тяжелое Метательное Копье
+itm_javelin_jinetes|Метательные Копья Всадников
+itm_javelin_jinetes_pl|Метательные Копья Всадников
+itm_javelin_jinetes_melee|Метательное Копье Всадников
+itm_javelin_jinetes_melee_pl|Метательное Копье Всадников
+itm_throwing_spears|Метательные Копья
+itm_throwing_spears_pl|Метательные Копья
+itm_throwing_spear_melee|Метательное Копье
+itm_throwing_spear_melee_pl|Метательное Копье
+itm_throwing_spears2|Метательные Копья
+itm_throwing_spears2_pl|Метательные Копья
+itm_throwing_spear2_melee|Метательное Копье
+itm_throwing_spear2_melee_pl|Метательное Копье
+itm_stones|Камни
+itm_stones_pl|Камни
+itm_long_bow|Длинный Лук
+itm_long_bow_pl|Длинный Лук
+itm_long_bow2|Элитный Длинный Лук
+itm_long_bow2_pl|Элитный Длинный Лук
+itm_long_bow3|Хороший Длинный Лук
+itm_long_bow3_pl|Хороший Длинный Лук
+itm_hunting_crossbow|Шотландский Арбалет
+itm_hunting_crossbow_pl|Шотландский Арбалет
+itm_strong_bow|Темный Охотник
+itm_strong_bow_pl|Темный Охотник
+itm_war_bow|Превосходный Лук
+itm_war_bow_pl|Превосходный Лук
+itm_sling_rock1|Камни для Пращи
+itm_sling_rock1_pl|Камни для Пращи
+itm_sling_lead|Камни для Пращи
+itm_sling_lead_pl|Камни для Пращи
+itm_sling|Праща
+itm_sling_pl|Праща
+itm_sling2|Праща
+itm_sling2_pl|Праща
+itm_sling3|Праща
+itm_sling3_pl|Праща
+itm_sling_militar|Боевая Праща
+itm_sling_militar_pl|Боевая Праща
+itm_fustibalus1|Фустибал
+itm_fustibalus1_pl|Фустибал
+itm_fustibalus2|Фустибал
+itm_fustibalus2_pl|Фустибал
+itm_fustibalus_military|Боевой Фустибал
+itm_fustibalus_military_pl|Боевой Фустибал
+itm_torch|Факелы
+itm_torch_pl|Факелы
+itm_lyre|Лира
+itm_lyre_pl|Лира
+itm_lute|Лютня
+itm_lute_pl|Лютня
+itm_instruments_end|Инструменты Закончились
+itm_instruments_end_pl|Инструменты Закончились
+itm_court_dress|Придворное Платье
+itm_court_dress_pl|Придворное Платье
+itm_stones_siege|Осадные Камни
+itm_stones_siege_pl|Осадные Камни
+itm_trophy_a|Боевой Трофей
+itm_trophy_a_pl|Боевой Трофей
+itm_trophy_b|Военный Трофей
+itm_trophy_b_pl|Военный Трофей
+itm_trophy_c|Эпический Трофей
+itm_trophy_c_pl|Эпический Трофей
+itm_iniauhorn|Горн Иниау
+itm_iniauhorn_pl|Горн Иниау
+itm_tunic_with_green_cape|Туника
+itm_tunic_with_green_cape_pl|Туника
+itm_keys|Связка Ключей
+itm_keys_pl|Связка Ключей
+itm_bride_dress|Свадебное Платье
+itm_bride_dress_pl|Свадебное Платье
+itm_bride_crown|Венок
+itm_bride_crown_pl|Венок
+itm_bride_shoes|Свадебные Туфли
+itm_bride_shoes_pl|Свадебные Туфли
+itm_practice_bow_2|Длинный Лук
+itm_practice_bow_2_pl|Длинный Лук
+itm_practice_arrows_2|Стрелы
+itm_practice_arrows_2_pl|Стрелы
+itm_steel_bolts|Осадные Камни
+itm_steel_bolts_pl|Осадные Камни
+itm_heraldic_mail_with_tunic_b|Рубаха
+itm_heraldic_mail_with_tunic_b_pl|Рубаха
+itm_heraldic_mail_with_tabard|Рубаха
+itm_heraldic_mail_with_tabard_pl|Рубаха
+itm_thors_helmet|Шлем Тора
+itm_thors_helmet_pl|Шлем Тора
+itm_thors_armor|Доспех Тора
+itm_thors_armor_pl|Доспех Тора
+itm_thors_boots|Сапоги Тора
+itm_thors_boots_pl|Сапоги Тора
+itm_thors_hammer|Молот Тора
+itm_thors_hammer_pl|Молот Тора
+itm_deadly_bow|Смертоносный Лук
+itm_deadly_bow_pl|Смертоносный Лук
+itm_deadly_arrows|Смертоносные Стрелы
+itm_deadly_arrows_pl|Смертоносные Стрелы
+itm_honey|Мед
+itm_honey_pl|Мед
+itm_raw_leather|Шкура
+itm_raw_leather_pl|Шкура
+itm_furs|Меха
+itm_furs_pl|Меха
+itm_wool_cloth|Шерстяная Ткань
+itm_wool_cloth_pl|Шерстяная Ткань
+itm_oil|Масло
+itm_oil_pl|Масло
+itm_velvet|Бархат
+itm_velvet_pl|Бархат
+itm_work_axe|Топор
+itm_work_axe_pl|Топор
+itm_work_pickaxe|Кирка
+itm_work_pickaxe_pl|Кирка
+itm_work_pitchfork|Вилы
+itm_work_pitchfork_pl|Вилы
+itm_work_basket|Корзина
+itm_work_basket_pl|Корзина
+itm_torch2|Факел
+itm_torch2_pl|Факел
+itm_animal_boar|Кабан
+itm_animal_boar_pl|Кабан
+itm_animal_pig|Свинья
+itm_animal_pig_pl|Свинья
+itm_animal_piglet|Поросенок
+itm_animal_piglet_pl|Поросенок
+itm_animal_sheep|Овца
+itm_animal_sheep_pl|Овца
+itm_animal_sheep_b|Баран
+itm_animal_sheep_b_pl|Баран
+itm_animal_dog|Собака
+itm_animal_dog_pl|Собака
+itm_dog_companion_horse|Пёс
+itm_dog_companion_horse_pl|Пёс
+itm_magic_broom|Странная Метла
+itm_magic_broom_pl|Странная Метла
+itm_stones_mp|Камни
+itm_stones_mp_pl|Камни
+itm_invisible_armor|Новый Наряд Короля
+itm_invisible_armor_pl|Новый Наряд Короля
+itm_dog_bite|Укус
+itm_dog_bite_pl|Укус
+itm_addon_mail4|Медвежья Кольчуга
+itm_addon_mail4_pl|Медвежья Кольчуга
+itm_addon_mail5|Волчья Кольчуга
+itm_addon_mail5_pl|Волчья Кольчуга
+itm_addon_mail6|Медвежья Лорика
+itm_addon_mail6_pl|Медвежья Лорика
+itm_addon_mail7|Волчья Лорика
+itm_addon_mail7_pl|Волчья Лорика
+itm_lamellar_armor2|Чешуйчатая Лорика
+itm_lamellar_armor2_pl|Чешуйчатая Лорика
+itm_trophy_norse|Трофей Конунга Скандинавии
+itm_trophy_norse_pl|Трофей Конунга Скандинавии
+itm_trophy_cymry|Трофей Короля Бриттов
+itm_trophy_cymry_pl|Трофей Короля Бриттов
+itm_trophy_irish|Трофей Верховного Короля Ирландии
+itm_trophy_irish_pl|Трофей Верховного Короля Ирландии
+itm_trophy_saxon|Трофей Бритенвальды
+itm_trophy_saxon_pl|Трофей Бритенвальды
+itm_bonus_tunic_1|Туника Посла
+itm_bonus_tunic_1_pl|Туника Посла
+itm_bonus_tunic_2|Туника Элдормена
+itm_bonus_tunic_2_pl|Туника Элдормена
+itm_bonus_tunic_3|Туника Торговца
+itm_bonus_tunic_3_pl|Туника Торговца
+itm_bonus_dress_1|Шотландское Нарядное Платье
+itm_bonus_dress_1_pl|Шотландское Нарядное Платье
+itm_bonus_dress_2|Саксонское Королевское Платье
+itm_bonus_dress_2_pl|Саксонское Королевское Платье
+itm_bonus_dress_3|Норманнское Благородное Платье
+itm_bonus_dress_3_pl|Норманнское Благородное Платье
+itm_thors_javelins|Метательные Копья Тора
+itm_thors_javelins_pl|Метательные Копья Тора
+itm_decap_head|Обезглавленный
+itm_decap_head_pl|Обезглавленный
+itm_work_axe_mp|Топор
+itm_work_axe_mp_pl|Топор
+itm_pickaxe_mp|Кирка
+itm_pickaxe_mp_pl|Кирка
+itm_seax_1_mp|Старый Нож
+itm_seax_1_mp_pl|Старый Нож
+itm_spear_1_mp|Старое Копье
+itm_spear_1_mp_pl|Старое Копье
+itm_crossbow_mp|Шотландский Арбалет
+itm_crossbow_mp_pl|Шотландский Арбалет
+itm_bolts_mp|Болты
+itm_bolts_mp_pl|Болты
+itm_items_end|Завершение Перечня
+itm_items_end_pl|Завершение Перечня
+itm_noswing_club_troll|Топор Тролля
+itm_noswing_club_troll_pl|Топор Тролля
+itm_noswing_knife|Охотничий Нож
+itm_noswing_knife_pl|Охотничий Нож
+itm_noswing_knife2|Охотничий Нож
+itm_noswing_knife2_pl|Охотничий Нож
+itm_noswing_knife3|Охотничий Нож
+itm_noswing_knife3_pl|Охотничий Нож
+itm_noswing_knife4|Охотничий Нож
+itm_noswing_knife4_pl|Охотничий Нож
+itm_noswing_knife5|Охотничий Нож
+itm_noswing_knife5_pl|Охотничий Нож
+itm_noswing_longseax1|Кинжал
+itm_noswing_longseax1_pl|Кинжал
+itm_noswing_longseax2|Кинжал
+itm_noswing_longseax2_pl|Кинжал
+itm_noswing_longseax3|Кинжал
+itm_noswing_longseax3_pl|Кинжал
+itm_noswing_longseax4|Кинжал
+itm_noswing_longseax4_pl|Кинжал
+itm_noswing_longseax5|Кинжал
+itm_noswing_longseax5_pl|Кинжал
+itm_noswing_longseax6|Кинжал
+itm_noswing_longseax6_pl|Кинжал
+itm_noswing_longseax7|Кинжал
+itm_noswing_longseax7_pl|Кинжал
+itm_noswing_longseax8|Кинжал
+itm_noswing_longseax8_pl|Кинжал
+itm_noswing_longseax9|Кинжал
+itm_noswing_longseax9_pl|Кинжал
+itm_noswing_longseax10|Кинжал
+itm_noswing_longseax10_pl|Кинжал
+itm_noswing_seax_1|Нож
+itm_noswing_seax_1_pl|Нож
+itm_noswing_seax_2|Нож
+itm_noswing_seax_2_pl|Нож
+itm_noswing_seax_3|Нож
+itm_noswing_seax_3_pl|Нож
+itm_noswing_seax_4|Нож
+itm_noswing_seax_4_pl|Нож
+itm_noswing_seax_5|Нож
+itm_noswing_seax_5_pl|Нож
+itm_noswing_ragnar_seax|Кинжал Рагнара
+itm_noswing_ragnar_seax_pl|Кинжал Рагнара
+itm_noswing_elf_seax|Кинжал Эльфа
+itm_noswing_elf_seax_pl|Кинжал Эльфа
+itm_noswing_spatha|Меч
+itm_noswing_spatha_pl|Меч
+itm_noswing_spatha_2|Меч
+itm_noswing_spatha_2_pl|Меч
+itm_noswing_spatha_3|Меч
+itm_noswing_spatha_3_pl|Меч
+itm_noswing_spatha_4|Меч
+itm_noswing_spatha_4_pl|Меч
+itm_noswing_spatha_5|Меч
+itm_noswing_spatha_5_pl|Меч
+itm_noswing_spatha_6|Меч
+itm_noswing_spatha_6_pl|Меч
+itm_noswing_spatha_7|Меч
+itm_noswing_spatha_7_pl|Меч
+itm_noswing_spatha_8|Меч
+itm_noswing_spatha_8_pl|Меч
+itm_noswing_sword|Меч
+itm_noswing_sword_pl|Меч
+itm_noswing_sword_2|Меч
+itm_noswing_sword_2_pl|Меч
+itm_noswing_sword_3|Меч
+itm_noswing_sword_3_pl|Меч
+itm_noswing_sword_4|Меч
+itm_noswing_sword_4_pl|Меч
+itm_noswing_sword_5|Короткий Меч
+itm_noswing_sword_5_pl|Короткий Меч
+itm_noswing_sword_6|Короткий Меч
+itm_noswing_sword_6_pl|Короткий Меч
+itm_noswing_sword_7|Короткий Меч
+itm_noswing_sword_7_pl|Короткий Меч
+itm_noswing_sword_8|Короткий Меч
+itm_noswing_sword_8_pl|Короткий Меч
+itm_noswing_new_sword1|Короткий Меч
+itm_noswing_new_sword1_pl|Короткий Меч
+itm_noswing_new_sword2|Короткий Меч
+itm_noswing_new_sword2_pl|Короткий Меч
+itm_noswing_new_sword3|Короткий Меч
+itm_noswing_new_sword3_pl|Короткий Меч
+itm_noswing_new_sword4|Короткий Меч
+itm_noswing_new_sword4_pl|Короткий Меч
+itm_noswing_new_sword5|Короткий Меч
+itm_noswing_new_sword5_pl|Короткий Меч
+itm_noswing_new_sword6|Короткий Меч
+itm_noswing_new_sword6_pl|Короткий Меч
+itm_noswing_noble_sword|Роскошный Меч
+itm_noswing_noble_sword_pl|Роскошный Меч
+itm_noswing_noble_sword_2|Меч Ульфберта
+itm_noswing_noble_sword_2_pl|Меч Ульфберта
+itm_noswing_noble_sword_3|Благородный Меч
+itm_noswing_noble_sword_3_pl|Благородный Меч
+itm_noswing_noble_sword_4|Роскошный Меч
+itm_noswing_noble_sword_4_pl|Роскошный Меч
+itm_noswing_noble_sword_5|Меч Ульфберта
+itm_noswing_noble_sword_5_pl|Меч Ульфберта
+itm_noswing_noble_sword_6|Фальшивый Меч Ульфберта
+itm_noswing_noble_sword_6_pl|Фальшивый Меч Ульфберта
+itm_noswing_old_swordv|Бриттский Меч
+itm_noswing_old_swordv_pl|Бриттский Меч
+itm_noswing_old_swordv2|Бриттский Меч
+itm_noswing_old_swordv2_pl|Бриттский Меч
+itm_noswing_old_swordv3|Бриттский Меч
+itm_noswing_old_swordv3_pl|Бриттский Меч
+itm_noswing_old_swordv4|Бриттский Меч
+itm_noswing_old_swordv4_pl|Бриттский Меч
+itm_noswing_old_swordv5|Бриттский Меч
+itm_noswing_old_swordv5_pl|Бриттский Меч
+itm_noswing_old_swordv6|Бриттский Меч
+itm_noswing_old_swordv6_pl|Бриттский Меч
+itm_noswing_old_swordv7|Бриттский Меч
+itm_noswing_old_swordv7_pl|Бриттский Меч
+itm_noswing_noble_sword_7|Роскошный Бриттский Меч
+itm_noswing_noble_sword_7_pl|Роскошный Бриттский Меч
+itm_noswing_noble_sword_8|Роскошный Бриттский Меч
+itm_noswing_noble_sword_8_pl|Роскошный Бриттский Меч
+itm_noswing_noble_sword_9|Роскошный Бриттский Меч
+itm_noswing_noble_sword_9_pl|Роскошный Бриттский Меч
+itm_noswing_noble_sword_10|Роскошный Бриттский Меч
+itm_noswing_noble_sword_10_pl|Роскошный Бриттский Меч
+itm_noswing_noble_sword_11|Роскошный Бриттский Меч
+itm_noswing_noble_sword_11_pl|Роскошный Бриттский Меч
+itm_noswing_noble_sword_12|Роскошный Бриттский Меч
+itm_noswing_noble_sword_12_pl|Роскошный Бриттский Меч
+itm_noswing_noble_sword_13|Роскошный Бриттский Меч
+itm_noswing_noble_sword_13_pl|Роскошный Бриттский Меч
+itm_noswing_noble_swordv|Фальшивый Меч Ульфберта
+itm_noswing_noble_swordv_pl|Фальшивый Меч Ульфберта
+itm_noswing_noble_swordv3|Фальшивый Меч Ульфберта
+itm_noswing_noble_swordv3_pl|Фальшивый Меч Ульфберта
+itm_noswing_noble_swordv4|Меч Ульфберта
+itm_noswing_noble_swordv4_pl|Меч Ульфберта
+itm_noswing_noble_swordv5|Меч
+itm_noswing_noble_swordv5_pl|Меч
+itm_noswing_noble_swordv6|Меч
+itm_noswing_noble_swordv6_pl|Меч
+itm_noswing_noble_swordv7|Роскошный Меч
+itm_noswing_noble_swordv7_pl|Роскошный Меч
+itm_noswing_irish_long_sword1|Ирландский Благородный Длинный Меч
+itm_noswing_irish_long_sword1_pl|Ирландский Благородный Длинный Меч
+itm_noswing_irish_long_sword2|Ирландский Благородный Длинный Меч
+itm_noswing_irish_long_sword2_pl|Ирландский Благородный Длинный Меч
+itm_noswing_irish_long_sword3|Ирландский Длинный Меч
+itm_noswing_irish_long_sword3_pl|Ирландский Длинный Меч
+itm_noswing_irish_long_sword4|Ирландский Длинный Меч
+itm_noswing_irish_long_sword4_pl|Ирландский Длинный Меч
+itm_noswing_irish_long_sword5|Ирландский Длинный Меч
+itm_noswing_irish_long_sword5_pl|Ирландский Длинный Меч
+itm_noswing_irish_long_sword6|Ирландский Длинный Меч
+itm_noswing_irish_long_sword6_pl|Ирландский Длинный Меч
+itm_noswing_irish_long_sword7|Ирландский Длинный Меч
+itm_noswing_irish_long_sword7_pl|Ирландский Длинный Меч
+itm_noswing_irish_long_sword8|Ирландский Длинный Меч
+itm_noswing_irish_long_sword8_pl|Ирландский Длинный Меч
+itm_noswing_irish_short_sword1|Ирландский Короткий Меч
+itm_noswing_irish_short_sword1_pl|Ирландский Короткий Меч
+itm_noswing_irish_short_sword2|Ирландский Короткий Меч
+itm_noswing_irish_short_sword2_pl|Ирландский Короткий Меч
+itm_noswing_irish_short_sword3|Ирландский Короткий Меч
+itm_noswing_irish_short_sword3_pl|Ирландский Короткий Меч
+itm_noswing_championsword1|Ирландский Меч Героя
+itm_noswing_championsword1_pl|Ирландский Меч Героя
+itm_noswing_championsword2|Ирландский Меч Героя
+itm_noswing_championsword2_pl|Ирландский Меч Героя
+itm_noswing_widow_maker|Овдовитель
+itm_noswing_widow_maker_pl|Овдовитель
+itm_noswing_suttonhoosword2|Меч Короля Бандитов
+itm_noswing_suttonhoosword2_pl|Меч Короля Бандитов
+itm_noswing_siren_song|Песнь Сирен
+itm_noswing_siren_song_pl|Песнь Сирен
+itm_noswing_sword_of_war|Меч Олвира
+itm_noswing_sword_of_war_pl|Меч Олвира
+itm_noswing_sword_premium1|Над
+itm_noswing_sword_premium1_pl|Над
+itm_noswing_sword_premium2|Драгвандил
+itm_noswing_sword_premium2_pl|Драгвандил
+itm_noswing_sword_premium3|Блинубитр
+itm_noswing_sword_premium3_pl|Блинубитр
+itm_noswing_one_handed_war_axe_a|Короткий Боевой Топор
+itm_noswing_one_handed_war_axe_a_pl|Короткий Боевой Топор
+itm_noswing_one_handed_war_axe_b|Короткий Боевой Топор
+itm_noswing_one_handed_war_axe_b_pl|Короткий Боевой Топор
+itm_noswing_one_handed_war_axe_c|Короткий Боевой Топор
+itm_noswing_one_handed_war_axe_c_pl|Короткий Боевой Топор
+itm_noswing_one_handed_war_axe_d|Короткий Боевой Топор
+itm_noswing_one_handed_war_axe_d_pl|Короткий Боевой Топор
+itm_noswing_one_handed_war_axe_e|Длинный Боевой Топор
+itm_noswing_one_handed_war_axe_e_pl|Длинный Боевой Топор
+itm_noswing_one_handed_war_axe_f|Длинный Боевой Топор
+itm_noswing_one_handed_war_axe_f_pl|Длинный Боевой Топор
+itm_noswing_frankish_axe|Франкский Боевой Топор
+itm_noswing_frankish_axe_pl|Франкский Боевой Топор
+itm_noswing_staff|Посох
+itm_noswing_staff_pl|Посох
+itm_noswing_quarter_staff|Короткий Посох
+itm_noswing_quarter_staff_pl|Короткий Посох
+itm_noswing_pitch_fork|Вилы
+itm_noswing_pitch_fork_pl|Вилы
+itm_noswing_battle_fork|Посох Пастуха
+itm_noswing_battle_fork_pl|Посох Пастуха
+itm_noswing_light_spear1|Легкое Копье
+itm_noswing_light_spear1_pl|Легкое Копье
+itm_noswing_light_spear2|Легкое Копье
+itm_noswing_light_spear2_pl|Легкое Копье
+itm_noswing_light_spear3|Легкое Копье
+itm_noswing_light_spear3_pl|Легкое Копье
+itm_noswing_light_spear4|Легкое Копье
+itm_noswing_light_spear4_pl|Легкое Копье
+itm_noswing_war_spear1|Боевое Копье
+itm_noswing_war_spear1_pl|Боевое Копье
+itm_noswing_war_spear2|Боевое Копье
+itm_noswing_war_spear2_pl|Боевое Копье
+itm_noswing_war_spear3|Боевое Копье
+itm_noswing_war_spear3_pl|Боевое Копье
+itm_noswing_heavy_spear1|Тяжелое Копье
+itm_noswing_heavy_spear1_pl|Тяжелое Копье
+itm_noswing_heavy_spear2|Тяжелое Копье
+itm_noswing_heavy_spear2_pl|Тяжелое Копье
+itm_noswing_heavy_spear3|Тяжелое Копье
+itm_noswing_heavy_spear3_pl|Тяжелое Копье
+itm_noswing_long_light_spear1|Легкое Длинное Копье
+itm_noswing_long_light_spear1_pl|Легкое Длинное Копье
+itm_noswing_long_light_spear2|Легкое Длинное Копье
+itm_noswing_long_light_spear2_pl|Легкое Длинное Копье
+itm_noswing_long_war_spear1|Длинное Боевое Копье
+itm_noswing_long_war_spear1_pl|Длинное Боевое Копье
+itm_noswing_long_war_spear2|Длинное Боевое Копье
+itm_noswing_long_war_spear2_pl|Длинное Боевое Копье
+itm_noswing_long_heavy_spear1|Тяжелое Длинное Копье
+itm_noswing_long_heavy_spear1_pl|Тяжелое Длинное Копье
+itm_noswing_long_heavy_spear2|Тяжелое Длинное Копье
+itm_noswing_long_heavy_spear2_pl|Тяжелое Длинное Копье
+itm_noswing_new_mace|Рей
+itm_noswing_new_mace_pl|Рей
+itm_noswing_premium_spear1|Гунгнир
+itm_noswing_premium_spear1_pl|Гунгнир
+itm_noswing_standard|Боевое Знамя
+itm_noswing_standard_pl|Боевое Знамя
+itm_noswing_standard_dragon|Знамя Дракона
+itm_noswing_standard_dragon_pl|Знамя Дракона
+itm_noswing_darts_melee|Простые Метательные Копья
+itm_noswing_darts_melee_pl|Простые Метательные Копья
+itm_noswing_javelin_melee|Метательное Копье
+itm_noswing_javelin_melee_pl|Метательное Копье
+itm_noswing_javelin_skirmishes_melee|Метательное Копье
+itm_noswing_javelin_skirmishes_melee_pl|Метательное Копье
+itm_noswing_javelin_skirmishesel_melee|Тяжелое Метательное Копье
+itm_noswing_javelin_skirmishesel_melee_pl|Тяжелое Метательное Копье
+itm_noswing_javelin_jinetes_melee|Метательное Копье Всадников
+itm_noswing_javelin_jinetes_melee_pl|Метательное Копье Всадников
+itm_noswing_throwing_spear_melee|Метательное Копье
+itm_noswing_throwing_spear_melee_pl|Метательное Копье
+itm_noswing_throwing_spear2_melee|Метательное Копье
+itm_noswing_throwing_spear2_melee_pl|Метательное Копье
+itm_noswing_torch|Факелы
+itm_noswing_torch_pl|Факелы
+itm_noswing_work_pitchfork|Вилы
+itm_noswing_work_pitchfork_pl|Вилы
+itm_noswing_dog_bite|Укус
+itm_noswing_dog_bite_pl|Укус
+itm_noswing_seax_1_mp|Старый Нож
+itm_noswing_seax_1_mp_pl|Старый Нож
+itm_noswing_spear_1_mp|Старое Копье
+itm_noswing_spear_1_mp_pl|Старое Копье

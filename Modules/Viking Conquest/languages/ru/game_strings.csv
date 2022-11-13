@@ -3331,10 +3331,10 @@ str_debug_log_print2|{s30}^End of LOG.
 str_print_player_trade|{reg1} товаров для {reg2} и {reg3} других вещей для {reg4}*
 str_multi_game_type_desc_10|^Крестьяне пытаются защитить свой дом от налетчиков!^^ Жители имеют численное преимущество, но налетчики значительно лучше вооружены и экипированы.^
 str_beginner|Новичок
-str_normal|Норма
+str_normal|Нормально
 str_hardcore|Хардкор
-str_recruitment|Найм новобранцев:
-str_levelling|Повышение уровня:
+str_recruitment|Рекутирование:
+str_levelling|Улучшение войск:
 str_budget|Недельная плата:
 str_stamina|Выносливость:
 str_gear_affects_skills|Штраф брони:
